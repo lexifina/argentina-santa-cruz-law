@@ -1,0 +1,1 @@
+Artículo 3º.- PROMÚLGASE PARCIALMENTE bajo el Nº 3775, la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 20 de Diciembre de 2021 que crea la Comisión para la elaboración y redacción del anteproyecto del Código Procesal de Familia y Violencia Familiar de la Provincia de Santa Cruz, en todo de acuerdo a los considerandos del presente.-

@@ -1,0 +1,2 @@
+Artículo 1º.- VÉTASE el artículo 2 de la ley del Visto, sancionada por la Honorable Cámara de Diputados en fecha 20 de Diciembre de 2021, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 2.- La Comisión creada por el artículo 1 de la presente, tendrá a su cargo la confección y redacción del anteproyecto de Código Procesal de Familia y Violencia Familiar de la Provincia de Santa Cruz”.

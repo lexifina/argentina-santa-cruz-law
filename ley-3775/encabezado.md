@@ -1,0 +1,5 @@
+LEY N° 3775
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+LEY
+CREACIÓN DE LA COMISIÓN REDACTORA DEL CÓDIGO PROCESAL DE FAMILIA Y VIOLENCIA FAMILIAR

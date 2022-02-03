@@ -1,0 +1,2 @@
+Artículo 2º.- VÉTASE el artículo 3 de la ley del Visto, sancionada por la Honorable Cámara de Diputados en fecha 20 de Diciembre de 2021, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 3: La Comisión tendrá un plazo de 180 días corridos, contados desde su constitución, para elaborar el anteproyecto del Código Procesal de Familia y Violencia Familiar de la Provincia de Santa Cruz, pudiendo prorrogarse dicho plazo mediante Resolución de la Honorable Cámara de Diputados”.
