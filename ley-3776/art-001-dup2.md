@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3776 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 20 de Diciembre del año 2021, mediante la cual se ESTABLECE la malvinización de la sociedad Santacruceña desde la escuela, de acuerdo a lo expuesto en los considerandos de la presente.-
