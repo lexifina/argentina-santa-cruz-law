@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3774 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 20 de Diciembre del año 2021, mediante la cual se CREA en el ámbito de la ciudad de Caleta Olivia una Defensoría Pública Oficial de Niñas, Niños y Adolescentes.-

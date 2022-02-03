@@ -1,0 +1,5 @@
+LEY N° 3774
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+CREACIÓN DE LA DEFENSORÍA PÚBLICA OFICIAL DE NIÑAS, NIÑOS Y ADOLESCENTES PARA LA CIUDAD DE CALETA OLIVIA
