@@ -1,0 +1,1 @@
+Artículo 1°.- PROMÚLGASE bajo en N° 3778 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 28 de Abril de 2022, mediante la cual se aprueba la MODIFICACIÓN de la Ley 3480 Orgánica de Ministerios – Creación del Ministerio de la Igualdad e Integración, en un todo de acuerdo a lo expuesto en los considerandos de la presente.-

@@ -1,0 +1,6 @@
+LEY N° 3778
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+MODIFICACIÓN DE LA LEY 3480 - ORGÁNICA DE MINISTERIOS
+CREACIÓN DEL MINISTERIO DE LA IGUALDAD E INTEGRACIÓN
