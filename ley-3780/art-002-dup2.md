@@ -1,0 +1,1 @@
+Artículo 2º.- PROMÚLGASE PARCIALMENTE bajo el Nº 3780 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 12 de Mayo del año 2022, mediante la cual la provincia de Santa Cruz adhiere a la Ley Nacional Nº 27.505, en un todo de acuerdo a los considerandos del presente.-

@@ -1,0 +1,2 @@
+Artículo 1º.- VÉTASE el artículo 2 de la Ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 2: “La promesa de lealtad a La Constitución Nacional la efectuarán los alumnos del último año del secundario de los Establecimientos Educativos Públicos y de Gestión Privada en un acto académico que se realizará el primer día hábil siguiente al 1º de Mayo de cada año en ocasión del día de la Constitución Nacional”.-
