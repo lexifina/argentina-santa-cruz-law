@@ -1,0 +1,1 @@
+Artículo 2°.- El presente Decreto será refrendado por las señora Ministra Secretaria en el departamento Ministerio Secretaría General de la Gobernación a cargo del Despacho de la Jefatura de Gabinete de Ministros.-

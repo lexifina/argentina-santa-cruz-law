@@ -1,0 +1,1 @@
+Artículo 1°.- PROMÚLGASE bajo el N° 3782 la Ley Sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 26 de mayo de 2022, mediante la cual se DECLARA “Capital Provincial de la Vigilia – Malvinas Nos Une” a Río Gallegos, ciudad capital de la provincia de Santa Cruz;
