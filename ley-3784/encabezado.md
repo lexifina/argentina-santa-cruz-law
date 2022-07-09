@@ -1,0 +1,6 @@
+LEY N° 3784
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+MODIFICACIÓN LEY 2930
+DE TRANSFERENCIA INMUEBLE A FAVOR DE LA MUNICIPALIDAD DE PERITO MORENO
