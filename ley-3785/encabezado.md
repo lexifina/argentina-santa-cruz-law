@@ -1,0 +1,5 @@
+LEY N° 3785
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+SEMANA DE LA MEMORIA POR TODOS LOS TRIPULANTES DESAPARECIDIOS EN EL MAR ARGENTINO
