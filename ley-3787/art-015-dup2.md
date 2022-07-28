@@ -1,0 +1,1 @@
+Artículo 15.- En el supuesto de los vehículos y motovehículos que, a criterio del Ministerio de Seguridad, hayan agotado su capacidad de uso, se procederá a gestionar su descontaminación, compactación y disposición como chatarra”.-

@@ -1,0 +1,1 @@
+Artículo 13.- Los vehículos o motovehículos comprendidos en los términos de esta ley, tendrán afectación exclusiva al cumplimiento de las funciones y servicios propios de los organismos de seguridad del Estado provincial, de la Policía de la provincia y del Servicio Penitenciario Provincial, conforme se reglamente.-

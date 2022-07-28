@@ -1,0 +1,8 @@
+LEY Nº 3787
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+ADHESIÓN A LA LEY NACIONAL 26348
+MODIFICACIÓN A LA LEY 2378
+TÍTULO I
+DISPOSICIONES GENERALES

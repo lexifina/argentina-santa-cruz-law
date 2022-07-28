@@ -1,0 +1,1 @@
+Artículo 1.- Los bienes objeto de decomiso, secuestro o hallazgo en causas penales sustanciadas en los Tribunales provinciales, sobre los que no se haya acreditado derecho por persona alguna o citado para hacerle entrega de los mismos no compareciere, quedan sujetos a lo normado en la presente.-

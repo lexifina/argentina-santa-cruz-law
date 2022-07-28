@@ -1,0 +1,1 @@
+Artículo 14.- Recibida la solicitud de parte del Ministerio de Seguridad y cumplidos los requisitos del Artículo 10, el Juez competente deberá asignar el bien de que se trate, en actuaciones sumarísimas.-

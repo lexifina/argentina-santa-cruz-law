@@ -1,0 +1,1 @@
+Artículo 8.- Los recaudos para la realización de la subasta y la inscripción registral de los bienes, cuando correspondiere, serán los previstos en el Código Procesal Civil y Comercial de la provincia de Santa Cruz.-

@@ -1,0 +1,1 @@
+Artículo 11.- Los bienes consignados en depósito conforme el artículo anterior, excepto vehículos y motovehículos, podrán ser asignados a usos de oficina y/o equipamiento general de las dependencias de la Policía de la Provincia y el Servicio Penitenciario Provincial, así como la de hospitales, instalaciones sanitarias y/o escuelas de la Provincia.-

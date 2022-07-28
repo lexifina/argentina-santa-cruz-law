@@ -1,0 +1,2 @@
+Artículo 4.- Los bienes perecederos serán entregados al Ministerio de Desarrollo Social o al organismo que en su futuro lo reemplace, previo análisis de su valor para consumo o distribución, quien a través de las áreas de Acción Social de los municipios, ejecutará la distribución en el marco que fija la reglamentación de esta ley.
+Las cosas o bienes de interés científico o cultural, serán entregados bajo las condiciones del reglamento de esta ley.-
