@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3801 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 08 de septiembre del año 2022, mediante la cual se REGULA la Transferencia del Registro Público y se CREA la Unidad de Registro Público y Contralor de Personas Jurídicas.-
