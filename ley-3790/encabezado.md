@@ -1,0 +1,6 @@
+LEY N° 3790
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de :
+LEY
+INSTAURACIÓN DEL MES DE JUNIO COMO
+“MES DE LA CONCIENTIZACIÓN Y PREVENCIÓN DE ACCIDENTES POR MONÓXIDO DE CARBONO”

@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3790 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 11 de agosto del año 2022, mediante la cual se INSTAURA el mes de junio de cada año como “El mes de la Concientización y Prevención de Accidentes por Monóxido de Carbono”, en un todo de acuerdo a lo expuesto en los considerandos de la presente.-
