@@ -1,0 +1,2 @@
+Artículo 5º.- VÉTASE el artículo 6 de la ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 6: La Autoridad de Aplicación deberá crear un Registro Único de Personas Físicas y/o Jurídicas constituidas y establecidas en el territorio de la provincia de Santa Cruz que cumplan el objeto de dar una valorización a los Neumáticos Fuera de Uso, sea para la comercialización de la materia prima a plantas de reciclaje o reciclaje de la materia en productos manufacturados de origen santacruceño”.-

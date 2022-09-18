@@ -1,0 +1,2 @@
+Artículo 3º.- VÉTASE el artículo 3 de la ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 3: Para la aplicación e interpretación de esta ley se considerarán los objetivos establecidos en el artículo 2 de la presente, los principios establecidos en el artículo 4 de la Ley Nacional 25675, General del Ambiente, y la Resolución 523/2013 de la Secretaría de Ambiente y Desarrollo Sustentable de la Nación”.-
