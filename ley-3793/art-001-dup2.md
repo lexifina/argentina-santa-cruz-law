@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3793 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 11 de agosto del año 2022, mediante la cual se MODIFICA el artículo 1 de la Ley Nº 3661 - CIRCUITO HISTÓRICO Y TURÍSTICO DE LAS HUELGAS DE 1921, en un todo de acuerdo a lo expuesto en los considerandos de la presente.-
