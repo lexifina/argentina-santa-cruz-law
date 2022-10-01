@@ -1,0 +1,6 @@
+LEY N° 3798
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+ACTUALIZACIÓN DEL ORDENAMIENTO TERRITORIAL DE BOSQUES
+NATIVOS DE LA PROVINCIA DE SANTA CRUZ
