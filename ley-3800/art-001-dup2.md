@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3800 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 08 de septiembre del año 2022, mediante la cual se DECLARA Monumento Histórico Provincial al antiguo edificio del “Hotel Alquinta”, primer inmueble de la Comisión de Fomento de Tres Lagos, provincia de Santa Cruz.-
