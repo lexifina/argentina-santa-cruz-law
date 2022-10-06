@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3799 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 26 de mayo de 2022 “TRANSFERENCIA DE UN INMUEBLE A LA MUNICIPALIDAD DE PERITO MORENO”, en un todo de acuerdo a lo expuesto en los considerandos de la presente.-
