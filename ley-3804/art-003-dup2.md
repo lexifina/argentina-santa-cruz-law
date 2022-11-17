@@ -1,0 +1,1 @@
+Artículo 3°.- PROMÚLGASE PARCIALMENTE bajo el Nº 3804 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 08 de septiembre de 2022 de Spot para Transporte Interurbano en Santa Cruz, en un todo de acuerdo a los considerandos del presente.-
