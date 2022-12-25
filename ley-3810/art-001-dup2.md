@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3810 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Extraordinaria de fecha 13 de diciembre del año 2022, mediante la cual se MODIFICA la LEY Nº 3755 DE ADMINISTRACIÓN FINANCIERA Y DE LOS SISTEMAS DE CONTROL DEL SECTOR PÚBLICO PROVINCIAL.-
