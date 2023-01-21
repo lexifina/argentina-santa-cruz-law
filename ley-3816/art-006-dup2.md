@@ -1,0 +1,1 @@
+Artículo 6º.- PROMÚLGASE PARCIALMENTE bajo el Nº 3816 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 24 de noviembre de 2022 mediante la cual se establece la “Ley de Prevención de la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes”, en un todo de acuerdo a los considerandos del presente.-
