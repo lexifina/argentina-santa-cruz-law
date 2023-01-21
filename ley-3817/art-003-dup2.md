@@ -1,0 +1,1 @@
+Artículo 3º.- PROMÚLGASE PARCIALMENTE bajo el Nº 3817 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 24 de noviembre de 2022 mediante la cual se MODIFICA la Ley Nº 3595 Registro Único de Personas Violentas, en un todo de acuerdo a los considerandos del presente.-
