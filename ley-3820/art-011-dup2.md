@@ -1,0 +1,2 @@
+Artículo 11º.- VÉTASE el artículo 34° de la Ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 34°.- El Ministerio de la Producción Comercio e Industria, aplicará sanciones por infracciones a lo establecido en el artículo 36° de la presente norma. Estas podrán consistir en apercibimiento, multa, clausura temporal o definitiva. Lo producido de las multas será destinado al financiamiento de ONG cuyas acciones sean orientadas a la inclusión laboral de Personas con Discapacidad.-

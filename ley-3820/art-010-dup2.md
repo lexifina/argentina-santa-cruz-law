@@ -1,0 +1,2 @@
+Artículo 10º.- VÉTASE el artículo 30° de la Ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 30°.- Será anulable toda concesión o permiso que se otorgue sin observar la prioridad establecida en el artículo 29°. La autoridad competente, a petición de parte, en los plazos legales requerirá la revocación por ilegitimidad de tales concesiones o permisos.-

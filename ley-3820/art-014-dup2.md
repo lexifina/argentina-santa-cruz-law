@@ -1,0 +1,1 @@
+Artículo 14º.- PROMULGASE PARCIALMENTE bajo el Nº 3820 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Extraordinaria de fecha 20 de diciembre de 2022 mediante la cual se ESTABLECE el “Sistema de Promoción y Desarrollo Integral de las Personas con Discapacidad”.-
