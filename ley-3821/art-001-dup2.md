@@ -1,0 +1,1 @@
+Artículo 1°.- PROMÚLGASE bajo el N° 3821 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de abril del año 2023, mediante la cual se DECLARA por el plazo de un (1) año, a partir del 1° de enero del año 2023 la EMERGENCIA HÍDRICA ZONA NORTE Y SUR.-
