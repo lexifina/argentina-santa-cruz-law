@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3822 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de abril del año 2023, mediante la cual se INSTITÚYE en el marco de la Ley 3279 de “Fiestas Provinciales” al “Festival del Viento” a desarrollarse anualmente en la Comisión de Fomento de Tres Lagos en el mes de noviembre.-
