@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3824 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de abril del año 2023, mediante la cual la provincia de Santa Cruz ADHIERE, a la Ley Nacional 27.324 “Régimen de Promoción de Pueblos Rurales Turísticos”.-
