@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3823 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de abril del año 2023, mediante la cual la provincia de Santa Cruz ADHIERE, en todos sus términos a la Ley Nacional 27.671 de “Cuestión de las Islas Malvinas”.-
