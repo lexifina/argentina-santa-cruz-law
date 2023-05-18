@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3826 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 27 de abril del año 2023, mediante la cual la provincia de Santa Cruz ADHIERE, a la Ley Nacional 26.562 de Medio Ambiente - Presupuestos mínimos de protección ambiental para control de actividades de quema en todo el Territorio Nacional.-
