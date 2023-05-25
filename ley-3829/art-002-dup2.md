@@ -1,0 +1,1 @@
+Artículo 2º.- PROMULGASE PARCIALMENTE bajo el Nº 3829 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de abril de 2023, de Obligatoriedad de Difusión de la Línea 145 - Sobre Trata, en un todo de acuerdo a los considerandos del presente.-
