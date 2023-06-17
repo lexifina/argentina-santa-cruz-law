@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3833 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 11 de mayo del año 2023, mediante la cual se INSTITUYE el día 23 de julio de cada año como el “Día Provincial del FLAP, Fisuras Labio-Alvéolo Palatinas”.-
