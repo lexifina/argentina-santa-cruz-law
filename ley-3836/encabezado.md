@@ -1,0 +1,6 @@
+LEY N° 3836
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+PROGRAMA PROVINCIAL DE CONCIENTIZACIÓN SOBRE LA DONACIÓN DE
+SANGRE Y HEMOCOMPONENTES
