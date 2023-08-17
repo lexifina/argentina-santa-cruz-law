@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3839 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 08 de junio del año 2023, mediante la cual se amplía el Ejido Municipal de la localidad de Río Turbio en una superficie de 1113 ha 99 as 87 ca, situada en la parte oeste del Lote 85, en un todo de acuerdo a lo expuesto en los considerandos de la presente.-
