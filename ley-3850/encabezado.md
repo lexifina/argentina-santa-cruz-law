@@ -1,0 +1,7 @@
+LEY N° 3850
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+EMERGENCIA ALIMENTARIA Y ADMINISTRATIVA
+CAPÍTULO I
+DECLARACIÓN, ÁMBITO DE APLICACIÓN Y PLAZO
