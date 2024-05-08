@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3845 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 14 de marzo del año 2024, mediante la cual la provincia de Santa Cruz se ADHIERE, en todos sus términos a la Ley Nacional Nº 27.709 “Ley Lucio”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
