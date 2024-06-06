@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3853 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 25 de abril del año 2024, mediante la cual se APRUEBA en todas sus partes el Convenio de Creación del “Parque Interjurisdiccional Marino Monte León” suscripto con fecha 11 de octubre del año 2023, el cual fuera ratificado por Decreto Nº 1224/23.-
