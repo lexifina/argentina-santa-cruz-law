@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3852 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 25 de abril del año 2024, mediante la cual se DECLARA a la localidad de Río Turbio como “Capital Provincial del Deporte Invernal”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
