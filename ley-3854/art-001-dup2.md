@@ -1,0 +1,1 @@
+Artículo 1°.- PROMÚLGASE bajo el N° 3854 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 9 de mayo del año 2024, mediante la cual se MODIFICAN diferentes artículos de las Leyes referentes a las Prerrogativas del Ministerio de Energía y Minería de la provincia de Santa Cruz.-

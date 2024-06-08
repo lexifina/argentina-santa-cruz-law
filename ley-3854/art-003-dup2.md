@@ -1,0 +1,3 @@
+Artículo 3°.- Cúmplase, Comuníquese, Publíquese dese a la Dirección General del Boletín Oficial y, cumplido, ARCHÍVESE.-
+Sr. VIDAL – Ing. Jaime Horacio Álvarez
+________
