@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3858 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de junio del año 2024, mediante la cual se DEROGA la Ley Nº 2052 y sus modificatorias 2522, 2604, 3047, 3415, 3617, 2438 y toda norma que se oponga a esta ley.-
