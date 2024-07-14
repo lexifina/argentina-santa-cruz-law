@@ -1,0 +1,2 @@
+Artículo 2º.- VÉTASE el artículo 4 de la Ley del visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 4º.- la autoridad de aplicación de la norma en colaboración con las demás áreas o reparticiones públicas con competencia en la materia, tendrán la facultad de dictar de manera conjunta las normas reglamentarias, interpretativas, complementarias y aclaratorias que resulten necesarias a los fines del cumplimiento y promoción de la presente ley.”.-
