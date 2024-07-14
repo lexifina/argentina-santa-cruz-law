@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3859 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de junio del año 2024, mediante la cual se ESTABLECE el Régimen Legal del Tribunal de Enjuiciamiento, previsto en el artículo 129° de la Constitución Provincial, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
