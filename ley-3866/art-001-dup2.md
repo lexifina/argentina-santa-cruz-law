@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3866 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 2 de julio del año 2024, mediante la cual se MODIFICA parte del articulado de la Ley N° 500 - Orgánica del Tribunal de Cuentas de la Provincia, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
