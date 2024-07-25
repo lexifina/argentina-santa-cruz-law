@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3863 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 2 de julio del año 2024, mediante la cual se MODIFICA la Ley N° 3485 - Ley Impositiva, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
