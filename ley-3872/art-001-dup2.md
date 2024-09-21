@@ -1,0 +1,1 @@
+Artículo 1°.- PROMÚLGASE bajo el N° 3872 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 8 de agosto del año 2024, mediante la cual se CREA el Plan Provincial de la Prevención de la Ludopatía en el Ámbito Educativo.-
