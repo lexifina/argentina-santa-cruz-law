@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el N° 3870 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 8 de agosto del año 2024, mediante la cual se DECLARA el día 3 de junio de cada año como el “Día Provincial de Ni Una Menos” en la provincia de Santa Cruz, en un todo de acuerdo a lo expuesto en los considerados del presente.-
