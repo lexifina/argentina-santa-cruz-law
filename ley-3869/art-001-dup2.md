@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el N° 3869 la Ley sancionada por la Honorable Cámara de Diputados en sesión Ordinaria de fecha 8 de agosto del año 2024, mediante la cual se CREA la Oficina de Fortalecimiento de la Perspectiva Discapacidad, en el ámbito de la Justicia de la provincia de Santa Cruz con dependencia directa del Excelentísimo Tribunal Superior de Justicia.-
