@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el N° 3871 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 8 de agosto del año 2024, mediante la cual se DECLARA el día 17 de abril de cada año como el “Día Provincial del Astroturismo”, en un todo de acuerdo a lo expuesto en los considerados del presente.-
