@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3876 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 22 de agosto del año 2024, mediante la cual se APRUEBA en todas sus partes las disposiciones establecidas en el Decreto N° 107 de fecha 15 de diciembre del año 2023, el que como Anexo I forma parte integrante del presente.-
