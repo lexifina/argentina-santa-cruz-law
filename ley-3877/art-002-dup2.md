@@ -1,0 +1,1 @@
+Artículo 2.- DOMICILIO: El domicilio legal de la Sociedad se fija en la calle Avellaneda N° 801 de la ciudad de Río Gallegos, provincia de Santa Cruz; sin perjuicio de lo cual podrá establecer delegaciones, sucursales, agencias o cualquier especie de representación dentro o fuera del País.

@@ -1,0 +1,1 @@
+Artículo 3.- DURACIÓN: Su duración se establece en treinta (30) años, contados a partir de la fecha de inscripción del presente Estatuto en el Registro Público y Contralor de Personas Jurídicas. Por decisión de la Asamblea General extraordinaria de accionistas, este término puede prorrogarse.

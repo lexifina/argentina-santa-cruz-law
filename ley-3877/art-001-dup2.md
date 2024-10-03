@@ -1,0 +1,1 @@
+Artículo 1.- DENOMINACIÓN: La Sociedad se denomina "SANTA CRUZ PUEDE S.A.U.” pudiendo usar en todos los actos jurídicos que formalice este nombre completo o S.C.P.S.A.U. cuya organización, funcionamiento y actividades se regirá por el capítulo II, Sección VI de la Ley Nacional 19550, Ley General de Sociedades y sus modificatorias, sus estatutos sociales.

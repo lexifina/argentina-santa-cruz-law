@@ -1,0 +1,5 @@
+Artículo 12.- CIERRE DE EJERCICIO SOCIAL: El ejercicio social cierra el 30 de noviembre de cada año. A esa fecha se confeccionarán los estados contables conforme con las legislaciones en vigencia y normas técnicas de la materia. La Asamblea puede notificar la fecha de cierre del ejercicio inscribiendo la resolución pertinente en el Registro Público y Contralor de Personas Jurídicas y comunicándolo a la autoridad de contralor. Las ganancias realizadas y líquidas se distribuirán de la siguiente manera:
+a) cinco por ciento (5%) hasta alcanzar el veinte por ciento (20%) del capital suscripto para el fondo de reserva legal;
+b) una suma que la Asamblea determinará en cada caso, en bonos por resultados del Directorio y Comisión Fiscalizadora;
+c) del remanente se destinará la suma que corresponda para abonar el dividendo fijo y adicional a las acciones preferidas si las hubiera;
+d) el saldo de las utilidades líquidas y realizadas se destinará y/o distribuirá en la forma y condiciones que resuelvan la Asamblea.
