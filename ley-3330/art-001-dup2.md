@@ -1,0 +1,1 @@
+Artículo 1°.- VÉTASE en todas sus partes la ley sancionada por la Honorable Cámara de Diputados en fecha 8 de agosto del año 2024, que modifica la Ley N° 3330 de Aranceles y Honorarios de Abogados y Procuradores, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
