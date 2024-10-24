@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3883 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 22 de agosto del año 2024, mediante la cual se ESTABLECE el día 25 de marzo de cada año, como “Día del Niño por Nacer”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
