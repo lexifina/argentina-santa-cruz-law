@@ -1,0 +1,1 @@
+Artículo 1º.- VÉTASE en todas sus partes las Ley sancionada por la Honorable Cámara de Diputados en fecha 12 de septiembre del año 2024, mediante la cual se modifican los artículos 1º y 6º de la Ley Nº 3616 de Creación del Registro Único de Proveedores de Actividades Económicas (RUPAE), en un todo de acuerdo a los considerando del presente.-
