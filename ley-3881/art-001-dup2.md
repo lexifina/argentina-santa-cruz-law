@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el N° 3881 la ley sancionada por la Honorable Cámara de Diputados en sesión ordinaria de fecha 22 de agosto del año 2024, conforme la cual la provincia de Santa Cruz se adhiere a la Ley Nacional N° 22.711, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
