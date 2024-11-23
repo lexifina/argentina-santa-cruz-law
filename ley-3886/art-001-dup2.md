@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3866 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 12 de septiembre del año 2024, mediante la cual se INCORPORAN los artículos 5 bis, 66 bis, 320 bis y 320 ter y se MODIFICA el articulo 319° del Código Procesal Penal de la provincia de Santa Cruz.-
