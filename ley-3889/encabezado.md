@@ -1,0 +1,6 @@
+LEY N° 3889
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+PRÓRROGA “AD-REFERÉNDUM” DEL ESTADO DE EMERGENCIA
+ALIMENTARIA Y ADMINISTRATIVA DISPUESTO POR LEY 3850
