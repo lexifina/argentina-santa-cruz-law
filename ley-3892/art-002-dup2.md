@@ -1,0 +1,1 @@
+Artículo 2º.- PROMÚLGASE PARCIALMENTE bajo el N° 3892 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 26 de septiembre del año 2024, la cual crea el Juzgado de Paz en la Comisión de Fomento de Nuestra Señora de los Dolores de Koluel Kaike, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
