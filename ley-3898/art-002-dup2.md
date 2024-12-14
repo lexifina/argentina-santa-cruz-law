@@ -1,0 +1,2 @@
+Artículo 2º.- VÉTASE el artículo 2° de la Ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 2°: ESTABLÉCESE la obligatoriedad de la capacitación a todos los actores que se desempeñan en el ámbito educativo, a fin de que cuenten con las herramientas necesarias para prevenir y/o abordar situaciones maltrato y/o vulnerabilidad que afecten a niños, niñas y adolescentes, de conformidad a la normativa vigente.-
