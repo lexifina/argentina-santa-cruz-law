@@ -1,0 +1,5 @@
+LEY N° 3899
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de :
+L E Y
+CREACIÓN MESA DE TRABAJO PARA PLAN DE CONTINGENCIA DE TRANSPORTE DE CARGAS PELIGROSAS
