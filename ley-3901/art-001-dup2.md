@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3901 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 14 de noviembre del año 2024, mediante la cual se MODIFICA el artículo 27° de la Ley N° 760, y sus modificatorias en un todo de acuerdo a lo expuesto en los considerandos del presente.-
