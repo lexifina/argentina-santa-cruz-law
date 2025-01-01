@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3907 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 14 de noviembre del año 2024, mediante la cual la provincia de Santa Cruz se ADHIERE a la Ley Nacional Nº 27.553 “Recetas electrónicas o digitales”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
