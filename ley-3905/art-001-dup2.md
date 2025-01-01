@@ -1,0 +1,3 @@
+Artículo 1º.- VÉTASE el Inciso f) del artículo 39° de la Ley del Visto, sancionada por la Honorable Cámara de Diputados de fecha 14 de noviembre del año 2024, ofreciéndose como texto alternativo el siguiente:
+“Artículo 39.- Son funciones, deberes y atribuciones del Consejo Directivo…
+f) proponer el importe de las cuotas, las multas y contribuciones extraordinarias a que se refiere el Inciso c) del artículo 26, que se actualizarán anualmente…”

@@ -1,0 +1,1 @@
+Artículo 4º.- PROMÚLGASE PARCIALMENTE bajo el N° 3905 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 14 de noviembre del año 2024, la cual se establece la Regulación del Ejercicio y Creación Colegio de Profesionales de la Psicopedagogía en Santa Cruz, en un todo de acuerdo a lo expuesto en los considerandos del presente.-

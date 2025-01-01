@@ -1,0 +1,3 @@
+Artículo 3º.- VÉTASE el Inciso b) del artículo 74° de la Ley del Visto, sancionada por la Honorable Cámara de Diputados de fecha 14 de noviembre del año 2024, ofreciéndose como texto alternativo el siguiente:
+“Artículo 74.- Son causas para la cancelación de la matrícula…
+b) enfermedades inhabilitantes para el ejercicio de la profesión, mientras estas duren, siempre que se acrediten con la correspondiente disposición judicial firme. En dicho supuesto el Tribunal de Ética y Disciplina emitirá el acto administrativo pertinente”.-
