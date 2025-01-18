@@ -1,0 +1,1 @@
+Artículo 3º.- PROMÚLGASE PARCIALMENTE bajo el N° 3910 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 12 de diciembre del año 2024, mediante la cual se establece la Regulación del Consejo de la Magistratura de la Provincia de Santa Cruz, en un todo de acuerdo a lo expuesto en los considerandos del presente.-

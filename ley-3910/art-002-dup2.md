@@ -1,0 +1,2 @@
+Artículo 2º.- VÉTASE el artículo 30° de la Ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 30: Elevación al Poder Ejecutivo. Vencido el plazo previsto por el artículo 28°, el Consejo elevará al Poder Ejecutivo Provincial, la terna de postulantes en base al orden de mérito confeccionado, a fin de proponer candidatos para cubrir las vacantes que se susciten durante su vigencia”.-

@@ -1,0 +1,2 @@
+Artículo 1º.- VÉTASE el artículo 28° de la Ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 28: Orden de Mérito. Concluido el proceso de evaluación, el Consejo en un plazo de quince (15) días, confeccionará el orden de mérito. Le correrá vista a los postulantes y le dará la debida publicidad, tal como se previo para el llamado a Concursos en el artículo 20°. El orden de mérito elaborado conforme las pautas precedentes tendrá una vigencia de tres (3) años”.-

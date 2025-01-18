@@ -1,0 +1,2 @@
+Artículo 5º.- Cúmplase, Comuníquese, Publíquese, dese a la Dirección General del Boletín Oficial y, cumplido, ARCHÍVESE.-
+Sr. CLAUDIO ORLANDO VIDAL –Sr. Nicolás Alberto Brizuela
