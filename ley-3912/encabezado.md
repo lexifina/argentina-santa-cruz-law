@@ -1,0 +1,6 @@
+LEY N° 3912
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de :
+L E Y
+ADHESIÓN AL TÍTULO VII DENOMINADO “RÉGIMEN DE INCENTIVO PARA
+GRANDES INVERSIONES” DE LA LEY 27742
