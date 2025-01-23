@@ -1,0 +1,2 @@
+Artículo 1º.- VÉTASE el artículo 1 de la Ley del Visto, sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 12 de diciembre del año 2024, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 1º: ESTABLÉCESE como “Festival Provincial del Petróleo”, en los términos de la Ley Nº 3279, a las actividades a llevarse a cabo el día 2 de diciembre de cada año en la Comisión de Fomento de Nuestra Señora de los Dolores Koluel Kaike, en conmemoración al Día Nacional del Petróleo.”
