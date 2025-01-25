@@ -1,0 +1,2 @@
+Artículo 7º.- Cúmplase, Comuníquese, Publíquese, dese a la Dirección General del Boletín Oficial y, cumplido, ARCHÍVESE.-
+Sr. CLAUDIO ORLANDO VIDAL - CP. Marilina José Jaramillo

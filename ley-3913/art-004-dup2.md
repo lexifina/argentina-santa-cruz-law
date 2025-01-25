@@ -1,0 +1,2 @@
+Artículo 4º.- VÉTASE el primer párrafo del artículo 30° de la Ley del Visto, sancionada por la Honorable Cámara de Diputados de fecha 12 de diciembre del año 2024 proponiéndose como texto alternativo el siguiente:
+“Artículo 30º.- El Directorio estará compuesto por diez (10) miembros: un (1) Presidente, un (1) Vicepresidente, un (1) Secretario, un (1) Tesorero y seis (6) Vocales Titulares. Se elegirán, además, tres (3) Vocales Suplentes. Para ser miembro del Directorio se requiere tener una antigüedad mínima de cinco (5) años de inscripción en la matrícula…”

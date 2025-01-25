@@ -1,0 +1,1 @@
+Artículo 5º.- PROMÚLGASE PARCIALMENTE bajo el N° 3913 a Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 12 de diciembre del año 2024, la cual regula el EJERCICIO DE LA ABOGACIA. COLEGIO PÚBLICO DE ABOGADOS. LEY DE COLEGIACIÓN PÚBLICA, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
