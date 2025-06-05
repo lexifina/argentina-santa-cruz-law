@@ -1,0 +1,2 @@
+Artículo 3º.- VÉTASE el artículo 16 de la Ley del visto, sancionada por la Honorable Cámara de Diputados de fecha 13 de marzo del año 2025, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 16.- Título de posgrado. Los títulos de posgrado, especializaciones maestrías, y doctorados en Psicología Social y afines o títulos equivalentes en el mismo grado, solo habilitan para la docencia y la investigación”.-

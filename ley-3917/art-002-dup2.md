@@ -1,0 +1,1 @@
+Artículo 2º.- VÉTASE el Inciso c) del artículo 15 de la Ley del visto, sancionada por la Honorable Cámara de Diputados de fecha 13 de marzo del año 2025, en un todo de acuerdo a los considerandos del presente.-

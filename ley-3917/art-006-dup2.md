@@ -1,0 +1,1 @@
+Artículo 6º.- PROMÚLGASE PARCIALMENTE bajo el Nº 3917 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de marzo del año 2025, la cual regula el Ejercicio de la Actividad del Profesional en Psicología Social, en un todo de acuerdo a los considerandos del presente.-

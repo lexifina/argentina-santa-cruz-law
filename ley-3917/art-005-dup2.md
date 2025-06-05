@@ -1,0 +1,2 @@
+Artículo 5º.- VÉTASE el artículo 28 de la Ley del visto, sancionada por la Honorable Cámara de Diputados de fecha 13 de marzo del año 2025, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 28.- Excepción. Se exceptúa de los requisitos del artículo 17, a los profesionales en Psicología Social, con título no oficial, que presenten una formación de cuatro (4) años o más, contra la presentación de la documentación que acredite la misma”.-
