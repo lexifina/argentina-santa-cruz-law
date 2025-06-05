@@ -1,0 +1,1 @@
+Artículo 4º.- PROMÚLGASE PARCIALMENTE bajo el Nº 3925 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 10 de abril de 2025, la cual otorga el Reconocimiento Histórico como “Soldado de Guerra Continental de Malvinas” a los soldados de la provincia de Santa Cruz, en un todo de acuerdo a los expuestos en los considerandos del presente.-

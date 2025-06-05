@@ -1,0 +1,2 @@
+Artículo 3º.- VÉTASE el artículo 3° de la Ley del visto, sancionada por la Honorable Cámara de Diputados de fecha 10 de abril de 2025, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 3°. - El Reconocimiento como “Soldado de Malvinas” consistirá en la entrega de un Diploma de Honor y una Medalla conmemorativa, en un acto oficial de carácter público del Poder Ejecutivo Provincial”.-
