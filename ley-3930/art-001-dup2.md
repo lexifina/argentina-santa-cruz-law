@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3930 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 22 de mayo del año 2025, mediante la cual se MODIFICAN los artículos 6° y 7° de la Ley N° 1749, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
