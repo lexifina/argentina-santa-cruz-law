@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3938 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 12 de junio del año 2025, mediante la cual se REGULA la organización y constitución del Tribunal de Cuentas de la Provincia, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
