@@ -1,0 +1,1 @@
+Artículo 1°.- PROMÚLGASE bajo el Nº 3945 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 26 de junio del año 2025, mediante la cual se estableció el “Marco Legal Control Fitosanitario”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
