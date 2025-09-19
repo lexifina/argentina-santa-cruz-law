@@ -1,0 +1,1 @@
+Artículo 1°.- PROMÚLGASE bajo el Nº 3949 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 28 de agosto del año 2025, mediante la cual se MODIFICA la Ley N° 1600 “Orgánica de la Justicia”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
