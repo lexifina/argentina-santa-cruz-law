@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3948 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 14 de agosto del año 2025, mediante la cual se DECLARA a la ciudad de Caleta Olivia como Capital Provincial de las Ballenas, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
