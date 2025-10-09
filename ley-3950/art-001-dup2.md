@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3950 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 28 de agosto del año 2025, mediante la cual se REGULA la Ley de Honorarios Profesionales de Abogados, Procuradores y Auxiliares de la Justicia de la Provincia de Santa Cruz, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
