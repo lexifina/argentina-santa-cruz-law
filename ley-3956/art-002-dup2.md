@@ -1,0 +1,1 @@
+Artículo 2°.- PROMÚLGASE PARCIALMENTE bajo el Nº 3956 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 28 de agosto del año 2025, la cual modifica la Ley N° 3877 de creación de la “SAU Santa Cruz Puede”, en un todo de acuerdo a los considerandos del presente.-

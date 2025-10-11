@@ -1,0 +1,1 @@
+Artículo 1°.- VÉTASE el Artículo 1 de la Ley del Visto, sancionada por la Honorable Cámara de Diputados de fecha 28 de agosto del año 2025, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
