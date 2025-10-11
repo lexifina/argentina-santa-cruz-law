@@ -1,0 +1,1 @@
+Artículo 2º.- PROMÚLGASE PARCIALMENTE bajo el Nº 3955 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 28 de agosto del año 2025, la cual crea un Juzgado de Primera Instancia de Familia con sede en la localidad de 28 de Noviembre, en un todo de acuerdo a los considerandos del presente.-
