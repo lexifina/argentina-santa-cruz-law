@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3963 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 9 de octubre del año 2025, mediante la cual se REGULA el ejercicio profesional de la Kinesiología y Fisioterapia en la Provincia de Santa Cruz, en un todo de acuerdo a lo expuesto en los considerandos del presente.-

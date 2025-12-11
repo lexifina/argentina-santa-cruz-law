@@ -1,0 +1,7 @@
+LEY N° 3963
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de :
+L E Y
+EJERCICIO PROFESIONAL DE KINESIOLOGÍA Y FISIOTERAPIA
+CAPÍTULO I
+DISPOSICIONES GENERALES
