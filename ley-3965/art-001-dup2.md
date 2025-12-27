@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3965 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de noviembre del año 2025, mediante la cual se CREA el Juzgado de Instrucción Penal y Juvenil con asiento en la localidad de Los Antiguos, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
