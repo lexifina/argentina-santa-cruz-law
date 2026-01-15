@@ -1,0 +1,1 @@
+Artículo 1º.- VÉTASE el Artículo 5 Inciso a) de la Ley del Visto, sancionada por la Honorable Cámara de Diputados de fecha 13 de noviembre de 2025, ofreciéndose como texto alternativo el que a continuación se transcribe:
