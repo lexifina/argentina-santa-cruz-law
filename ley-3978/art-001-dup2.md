@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el N° 3978, la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 28 de agosto del año 2025, mediante la cual se crea del Programa “Santa Cruz Alquila”.-

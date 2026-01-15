@@ -1,0 +1,1 @@
+Artículo 2°.- El presente Decreto será refrendado por la señora Ministra Secretaria en el Departamento de Desarrollo Social, Igualdad e Integración a cargo del Despacho del Ministerio de Economía, Finanzas e Infraestructura.-
