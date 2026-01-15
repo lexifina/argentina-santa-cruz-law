@@ -1,0 +1,1 @@
+Artículo 2º.- PROMÚLGASE PARCIALMENTE bajo el Nº 3975 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de noviembre del año 2025, la cual crea el “Programa Provincial de Buenas Prácticas en Accesibilidad Cognitiva y Comunicacional”, en un todo de acuerdo a los considerandos del presente.-

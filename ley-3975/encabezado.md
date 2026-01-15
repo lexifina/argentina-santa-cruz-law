@@ -1,0 +1,6 @@
+LEY N° 3975
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de :
+L E Y
+PROGRAMA PROVINCIAL DE BUENAS PRÁCTICAS EN ACCESIBILIDAD
+COGNITIVA Y COMUNICACIONAL
