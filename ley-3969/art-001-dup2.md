@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3969 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de noviembre del año 2025, mediante la cual se MODIFICA los Artículos 1 y 2 de la Ley N° 3121, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
