@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3990 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 11 de diciembre del año 2025, mediante la cual se DECLARA el día 17 de septiembre de cada año como “Día Provincial de la Seguridad del Paciente”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
