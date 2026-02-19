@@ -1,0 +1,1 @@
+Artículo 2º.- PROMÚLGASE PARCIALMENTE bajo el Nº 3994 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 11 de diciembre del año 2025, referida a “DECLARAR EMERGENCIA HÍDRICA”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
