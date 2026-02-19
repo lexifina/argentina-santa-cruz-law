@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3992 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 11 de diciembre del año 2025, mediante la cual la Provincia de Santa Cruz se ADHIERE a la Ley Nacional N° 27642 de “Promoción de la Alimentación Saludable”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
