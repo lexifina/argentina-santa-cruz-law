@@ -1,0 +1,1 @@
+Artículo 4°.- PROMÚLGASE PARCIALMENTE bajo el Nº 3995 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 11 de diciembre del año 2025, la cual regula el ordenamiento de la explotación “DE ALGAS”, en un todo de acuerdo a los considerandos del presente.-

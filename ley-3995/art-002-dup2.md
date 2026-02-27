@@ -1,0 +1,4 @@
+Artículo 2°.- VÉTASE el Artículo 7 de la Ley del Visto, sancionada por la Honorable Cámara de Diputados en fecha 11 de diciembre del año 2025, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 7°.- A los fines del cumplimiento de la presente ley, por vía reglamentaria la autoridad de aplicación deberá:
+Determinar y fijar las limitaciones y prohibiciones que estime aconsejables contra el uso de substancias, dispositivos o sistemas de recolección, niveles de corte o cantidades, cuyas practicas resulten perjudiciales o inconvenientes para la flora y fauna marina;
+Establecer la normativa de control que permita verificar si el ritmo de construcción de instalaciones, inversión de capital, explotación, industrialización, efectos sociales, efectos ecológicos, etcétera, se ajusta a los proyectos y planes que determinaron el otorgamiento del permiso”.-
