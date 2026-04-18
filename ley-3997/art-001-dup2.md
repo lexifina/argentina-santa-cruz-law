@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 3997 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 12 de marzo del año 2026, mediante la cual se GARANTIZA el Acompañamiento en situaciones de Pérdida Perinatal o Neonatal, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
