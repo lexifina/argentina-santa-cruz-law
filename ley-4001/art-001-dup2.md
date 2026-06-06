@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 4001 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 23 de abril del año 2026, mediante la cual se DECLARA a la X Brigada Aérea de Río Gallegos como Unidad Heroica Provincial, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
