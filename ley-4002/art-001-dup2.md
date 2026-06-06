@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 4002 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 23 de abril del año 2026, mediante la cual se ESTABLECE el día 4 de diciembre de cada año, como “Día de Santa Bárbara, patrona de los mineros”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
