@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el N° 3999, la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 27 de noviembre del año 2025, mediante la cual se crea el “Programa Integral para la Detección Temprana de Maltrato Infantil y Adolescente”.-

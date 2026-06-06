@@ -1,0 +1,6 @@
+LEY N° 3999
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de
+L E Y
+PROGRAMA INTEGRAL PARA LA DETECCIÓN TEMPRANA DE MALTRATO
+INFANTIL Y ADOLESCENTE
