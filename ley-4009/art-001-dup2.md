@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 4009 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 11 de junio del año 2026, mediante la cual se MODIFICAN diversos artículos de la Ley N° 1600 “Orgánica de la Justicia de Santa Cruz”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
