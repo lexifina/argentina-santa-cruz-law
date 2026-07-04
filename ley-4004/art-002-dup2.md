@@ -1,0 +1,1 @@
+Artículo 2º.- PROMÚLGASE PARCIALMENTE bajo el N° 4004 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 23 de abril del año 2026, mediante la cual se incorporan y modifican distintos dispositivos a la Ley N° 3183 de creación de la Reserva Natural Costa Norte de Santa Cruz, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
