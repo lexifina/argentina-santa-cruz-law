@@ -1,0 +1,1 @@
+Artículo 2º.- PROMÚLGASE PARCIALMENTE bajo el N° 4003 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 23 de abril del año 2026, mediante la cual se incorporan los Artículos 7 bis y 7 ter de la Ley N° 3123 de “Protección de los Ambientes de Glaciares y Periglaciales”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
