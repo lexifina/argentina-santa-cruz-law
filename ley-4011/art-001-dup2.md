@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 4011 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 11 de junio del año 2026, mediante la cual se MODIFICA la Ley N° 3092 y modificatorias, en un todo de acuerdo a lo expuesto en los considerandos del presente.-

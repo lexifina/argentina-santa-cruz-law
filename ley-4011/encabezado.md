@@ -1,0 +1,5 @@
+LEY N° 4011
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+MODIFICACIÓN LEYES 3092 Y 3519 - SISTEMA PROVINCIAL DE PROMOCIÓN Y DESARROLLO INDUSTRIAL
