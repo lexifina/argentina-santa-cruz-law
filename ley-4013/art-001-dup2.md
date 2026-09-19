@@ -1,0 +1,2 @@
+Artículo 1º.- VÉTASE el Artículo 1° de la ley del Visto ofreciéndose el siguiente texto alternativo:
+“Artículo 1: CREASE el Programa Integral de Abordaje y Prevención del Suicidio en el Ámbito Educativo de aplicación obligatoria en todos los niveles de educación: inicial, primaria y secundaria del sistema educativo provincial en todas sus modalidades, tanto de gestión pública como privada, conforme a los lineamientos de la Ley Nacional N° 27.130, Ley Nacional N° 26.061 y Ley N° 3062 y demás normativa vigente.”.-

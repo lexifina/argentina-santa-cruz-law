@@ -1,0 +1,1 @@
+Artículo 2°.- PROMÚLGASE PARCIALMENTE bajo el N° 4013 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 13 de agosto del año 2026, que crea el Programa de Abordaje Integral de Prevención del Suicidio en el Ámbito Educativo de la Provincia de Santa Cruz, en un todo de acuerdo a los considerandos del presente.-

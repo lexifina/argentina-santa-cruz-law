@@ -1,0 +1,7 @@
+LEY N° 4013
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+PROGRAMA DE ABORDAJE INTEGRAL DE PREVENCIÓN
+DEL SUICIDIO EN EL ÁMBITO EDUCATIVO
+DE LA PROVINCIA DE SANTA CRUZ
