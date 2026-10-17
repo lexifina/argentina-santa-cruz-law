@@ -1,0 +1,1 @@
+Artículo 2°.- PROMÚLGASE PARCIALMENTE bajo el Nº 4015 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 27 de agosto del año 2026, que modifica la Ley N° 3791 - De gestión Integral de los Neumáticos Fuera de Uso, en un todo de acuerdo a los considerandos del presente.-
