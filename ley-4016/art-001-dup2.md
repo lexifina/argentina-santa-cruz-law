@@ -1,0 +1,1 @@
+Artículo 1º.- PROMÚLGASE bajo el Nº 4016 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 27 de agosto del año 2026, mediante la cual se MODIFICA la Ley N° 3979 - Copa de Leche y Refuerzo Alimentario Escolar, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
