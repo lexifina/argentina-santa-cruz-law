@@ -1,0 +1,3 @@
+Artículo 2°.- VÉTASE el Artículo 13° de la Ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 13°.- ESTABLÉCESE que en los supuestos previstos por los Incisos a), b) y d) del Artículo 12° el cese será dispuesto por el Presidente de la Honorable Cámara de Diputados. Si se tratare de la causal de incapacidad sobreviniente se deberá acreditar tal extremo de modo fehaciente. En el caso del Inciso e) la remoción será dispuesta por la Honorable Cámara de Diputados con mayoría idéntica a la exigida para su designación.-
+En caso de cese, por cualquier razón, del Defensor del Pueblo de la Provincia, se procederá a su reemplazo de conformidad con lo establecido en el Artículo 5° de la presente, en el menor tiempo posible”.-

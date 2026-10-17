@@ -1,0 +1,1 @@
+Artículo 3°.- PROMÚLGASE PARCIALMENTE bajo el Nº 4014 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 27 de agosto del año 2026, la cual crea en el ámbito del Poder Legislativo Provincial la “Defensoría del Pueblo de la provincia”, en un todo de acuerdo a los considerandos del presente.-

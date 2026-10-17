@@ -1,0 +1,3 @@
+Artículo 1°.- VÉTASE el Inciso e) del Artículo 12° de la Ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 12°.- FÍJASE que cesará en el ejercicio de sus funciones por:…
+e) mal desempeño en sus funciones o negligencia en el cumplimiento de los deberes a su cargo”.-

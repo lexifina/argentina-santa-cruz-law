@@ -1,0 +1,6 @@
+LEY N° 4014
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+CRÉASE EN EL ÁMBITO DEL PODER LEGISLATIVO PROVINCIAL
+LA “DEFENSORÍA DEL PUEBLO DE LA PROVINCIA”
