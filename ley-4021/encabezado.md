@@ -1,0 +1,8 @@
+LEY N° 4021
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+CREACIÓN DEL COLEGIO PROFESIONAL DE ENFERMERÍA DE LA
+PROVINCIA DE SANTA CRUZ
+CAPÍTULO I
+DEL COLEGIO DE ENFERMERÍA

@@ -1,0 +1,1 @@
+Artículo 6°.- PROMÚLGASE PARCIALMENTE bajo el Nº 4021 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 27 de agosto del año 2026, que crea el Colegio Profesional de la Enfermería de la Provincia de Santa Cruz, en un todo de acuerdo a los considerandos del presente.-
