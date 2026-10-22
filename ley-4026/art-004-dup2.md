@@ -1,0 +1,1 @@
+Artículo 4°: Recursos. El Poder Ejecutivo Provincial, a través del Consejo Provincial de Educación reorganizará los recursos materiales, humanos y presupuestarios necesarios para el funcionamiento de los equipos de intervención, asegurando la formación continua de los profesionales involucrados.

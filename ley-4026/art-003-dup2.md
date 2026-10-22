@@ -1,0 +1,1 @@
+Artículo 3°.- PROMÚLGASE PARCIALMENTE bajo el N° 4026, la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 10 de septiembre de 2026, denominada “Creación de Equipos de Intervención en Escuelas Primarias y de Nivel Inicial”, en un todo de acuerdo a los considerandos del presente.-
