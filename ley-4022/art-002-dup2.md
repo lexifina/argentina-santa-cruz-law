@@ -1,0 +1,1 @@
+Artículo 2°.- PROMÚLGASE PARCIALMENTE bajo el N° 4022 la Ley la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 27 de agosto de 2026 que dispone el Régimen de Identificación, Regularización y Remoción de Infraestructura y Material en Desuso de Servicios Públicos y Privados de la Provincia, en un todo de acuerdo a los considerandos del presente.-

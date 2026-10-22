@@ -1,0 +1,2 @@
+Artículo 4°.- Cúmplase, Comuníquese, Publíquese, dese a la Dirección General del Boletín Oficial y, cumplido, ARCHÍVESE.-
+Sr. CLAUDIO ORLANDO VIDAL - C.P. Ezequiel Ubaldino Verbes
