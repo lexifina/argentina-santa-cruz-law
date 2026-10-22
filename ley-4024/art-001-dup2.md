@@ -1,0 +1,1 @@
+Artículo 1°.- PROMÚLGASE bajo el Nº 4024 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 10 de septiembre del año 2026, mediante la cual se DISPONE la Prohibición del autoexpendio de combustible en todo el territorio de la Provincia de Santa Cruz, en un todo de acuerdo a lo expuesto en los considerandos del presente.-

@@ -1,0 +1,5 @@
+LEY N° 4024
+El Poder Legislativo de la Provincia de Santa Cruz
+Sanciona con Fuerza de:
+L E Y
+PROHIBICIÓN DEL AUTOEXPENDIO DE COMBUSTIBLES EN TODO EL TERRITORIO DE LA PROVINCIA DE SANTA CRUZ
