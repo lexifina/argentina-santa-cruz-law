@@ -1,0 +1,1 @@
+Artículo 1°.- PROMÚLGASE bajo el N° 4023 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 10 de septiembre del año 2026, mediante la cual se MODIFICA la Ley N° 3792 denominada “Mesa Provincial de Diálogo Interreligioso”, en un todo de acuerdo a lo expuesto en los considerandos del presente.-
