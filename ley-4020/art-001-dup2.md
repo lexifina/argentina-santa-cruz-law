@@ -1,0 +1,2 @@
+Artículo 1°.- VÉTASE el Artículo 10 de la Ley del Visto, ofreciéndose como texto alternativo el que a continuación se transcribe:
+“Artículo 10.- La autoridad de aplicación podrá instrumentar, en coordinación con los organismos competentes y respetando el régimen de licencia establecido, mecanismos de intervención preventiva y acompañamiento profesional destinados a evitar el agravamiento de afecciones psíquicas o emocionales vinculadas al ejercicio de la docencia.-
