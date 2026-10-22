@@ -1,0 +1,1 @@
+Artículo 7°.-: PROMÚLGASE PARCIALMENTE bajo el Nº 4025 la Ley sancionada por la Honorable Cámara de Diputados en Sesión Ordinaria de fecha 10 de septiembre del año 2026, titulada De Compañía Vinculo Socio Afectivo Para Los Docentes y Trabajadoras/es de la Administración Pública Provincial “Ley Facu”, en un todo de acuerdo a los considerandos del presente.-

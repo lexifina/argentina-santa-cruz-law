@@ -1,0 +1,2 @@
+Artículo 2°.-: VÉTASE el Artículo 6° de la Ley del Visto ofreciéndose el siguiente texto alternativo:
+“Artículo 6°.- Notificado el docente y/o trabajador de los actos preparatorios del proceso investigativo en el que presuntamente se encuentre el trabajador incurso, se deberá aplicar el Protocolo de Acompañamiento, Cuidado y Protección Terapéutica, el cual deberá ser redactado por la autoridad de aplicación.”

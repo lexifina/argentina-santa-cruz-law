@@ -1,0 +1,2 @@
+Artículo 1°.-: VÉTASE el Artículo 2° de la Ley del Visto ofreciéndose el siguiente texto alternativo:
+“Artículo 2°.- La función del “Acompañante como vínculo socio afectivo del docente y del trabajador público provincial” comenzará a prestarse desde la notificación fehaciente al denunciado por parte de las autoridades competentes que tramiten las investigaciones y/o cualquier otro trámite administrativo en el que el denunciado sea parte.”
