@@ -1,0 +1,11 @@
+{
+  "path": "ar-z",
+  "code": "AR-Z",
+  "name": "Santa Cruz",
+  "level": "province",
+  "parent": "ar",
+  "repo": "https://github.com/lexifina/argentina-santa-cruz-law",
+  "build": "built: constitution, codes and laws (220 norms, 220 versions) from https://boletinoficial.santacruz.gob.ar/legislacion/leyes",
+  "language": "es",
+  "sources": 1
+}

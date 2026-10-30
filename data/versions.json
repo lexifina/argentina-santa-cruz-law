@@ -1,0 +1,3085 @@
+{
+ "country": "AR-Z",
+ "acts": [
+  {
+   "slug": "ley-4026",
+   "short": "Ley 4.026",
+   "title": "Ley 4.026: CREAR - EQUIPOS DE INTERVENCIÓN EN ESCUELAS PRIMARIAS Y DE NIVEL INICIAL EN LA PROVINCIA DE SANTA CRUZ - P/PROMOVER EL BIENESTAR INTEGRAL DE LOS ESTUDIANTES, PREVENIR Y ABORDAR PROBLEMÁTICAS EMOCIONALES, SOCIALES Y DE APRENDIZAJE",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60989",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 19,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60989",
+     "sha256": "1d609ae72a680b58adc98932b5d94f299a840de570be62f25d4fbe6a98b0a4b3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4025",
+   "short": "Ley 4.025",
+   "title": "Ley 4.025: CREAR - LA FIGURA DEL “ACOMPAÑANTE COMO VÍNCULO SOCIO AFECTIVO AL DOCENTE Y AL TRABAJADOR PÚBLICO PROVINCIAL”",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60970",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 27,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60970",
+     "sha256": "6805fc5d0ecdf1b3ec6b76187bbe668c78e008db0b80dfdb44694216a32518b1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4024",
+   "short": "Ley 4.024",
+   "title": "Ley 4.024: PROHÍBIR EN TODO EL TERRITORIO DE LA PROVINCIA DE SANTA CRUZ EL AUTOABASTECIMIENTO Y/O AUTOEXPENDIO, MANIPULACIÓN Y/O UTILIZACIÓN DE LOS SURTIDORES DE COMBUSTIBLE POR PARTE DE PERSONAL AJENO A LA DOTACIÓN PERTENECIENTE A LA ESTACIÓN DE SERVICIO Y DEMÁS BOCAS DE EXPENDIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60952",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60952",
+     "sha256": "a41445dc96cfa4f73d0d89517e0c9fd37144fefc2020c875214c025e356488e2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4023",
+   "short": "Ley 4.023",
+   "title": "Ley 4.023: MODIFÍCAR - inciso a) del Artículo 4° de la Ley 3792",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60947",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60947",
+     "sha256": "96a4ef1b1bb4800d0f5b1f024034aec51083d66f504a9dbab298aca7c7315bba"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4022",
+   "short": "Ley 4.022",
+   "title": "Ley 4.022: ESTABLECER - LA OBLIGACIÓN PARA TODAS LAS EMPRESAS PRESTATARIAS DE SERVICIOS PÚBLICOS O PRIVADOS DE ENERGÍA ELÉCTRICA, TELECOMUNICACIONES, TELEFONÍA, INTERNET, TRANSMISIÓN DE DATOS, VIDEO, TELEVISIÓN U OTROS SERVICIOS DE TECNOLOGÍA DE LA INFORMACIÓN Y LA COMUNICACIÓN (TIC) QUE POSEAN INFR",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60946",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 13,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60946",
+     "sha256": "003eab06243321ebc5ba8e57afb3adb996faed3d38ff5abfc83e83b787426c11"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4021",
+   "short": "Ley 4.021",
+   "title": "Ley 4.021: CREAR - COLEGIO DE PROFESIONALES DE ENFERMERÍA DE LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60945",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 60,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60945",
+     "sha256": "b5b472f8116789cdb17a0a1f2b035f765c86c8d56ec4d71b5dacc79cfce1906a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4020",
+   "short": "Ley 4.020",
+   "title": "Ley 4.020: CREAR - PROGRAMA INTEGRAL DE PSICOPROFILAXIS Y BIENESTAR DOCENTE EN LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60935",
+   "versions": [
+    {
+     "from": "2026-10-22",
+     "units": 19,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60935",
+     "sha256": "59a585ecb7dc2dfe75dac6d87c93aed1c9837fc97c352b094641ddc51dc43a83"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4016",
+   "short": "Ley 4.016",
+   "title": "Ley 4.016: MODIFICACIÓN LEY 3979 - COPA DE LECHE Y REFUERZO ALIMENTARIO ESCOLAR",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60867",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60867",
+     "sha256": "b8fd3a53129cd9de27a37e6be16e7fe0b998f80ba4cd955c6d0b2d5847603566"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4015",
+   "short": "Ley 4.015",
+   "title": "Ley 4.015: MODIFICACIÓN LEY 3791 - DE GESTIÓN INTEGRAL DE LOS NEUMÁTICOS FUERA DE USO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60866",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60866",
+     "sha256": "ce6dfacc3891c8be1ead462200000706be8ff0901b9da81e7a8b356409c7da2f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4014",
+   "short": "Ley 4.014",
+   "title": "Ley 4.014: CRÉASE EN EL ÁMBITO DEL PODER LEGISLATIVO PROVINCIAL LA “DEFENSORÍA DEL PUEBLO DE LA PROVINCIA”",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60865",
+   "versions": [
+    {
+     "from": "2026-10-17",
+     "units": 29,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/60865",
+     "sha256": "abbab962f7135118e24401e65c189399aada87606af7cdcfbc7afbe9a4e55544"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4013",
+   "short": "Ley 4.013",
+   "title": "Ley 4.013: PROGRAMA DE ABORDAJE INTEGRAL DE PREVENCIÓN DEL SUICIDIO EN EL ÁMBITO EDUCATIVO DE LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/59808",
+   "versions": [
+    {
+     "from": "2026-09-19",
+     "units": 26,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/59808",
+     "sha256": "e56efeee5f9ecc87fd18c322343b845fa3c642681f8017f7fac71a833f685402"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4012",
+   "short": "Ley 4.012",
+   "title": "Ley 4.012: ADHESIÓN A LA LEY NACIONAL 26064 - DÍA NACIONAL CONTRA EL TRABAJO INFANTIL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/58772",
+   "versions": [
+    {
+     "from": "2026-08-13",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/58772",
+     "sha256": "04dc9ef4d38907133aa0433afe263fa42aaa97915a6ab8579500d120e03d25cf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4011",
+   "short": "Ley 4.011",
+   "title": "Ley 4.011: PROMULGAR - MODIFICACIÓN DE LEYES 3092 Y 3519 - SISTEMA PROVINCIAL DE PROMOCIÓN Y DESARROLLO INDUSTRIAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/58361",
+   "versions": [
+    {
+     "from": "2026-07-25",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/58361",
+     "sha256": "edd685a5894ae8d1beb1b68cb9299638b3761823f6280a5881f1b227f66ee031"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4010",
+   "short": "Ley 4.010",
+   "title": "Ley 4.010: PROMULGAR E INSTITUIR - DÍA DE LA POESÍA SANTACRUCEÑA, EN HOMENAJE AL NATALICIO DE FLORA RODRÍGUEZ LOFREDO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/58360",
+   "versions": [
+    {
+     "from": "2026-07-25",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/58360",
+     "sha256": "9dc706ba4655a59dc09f3ba2a6d77f6a30fd6a8ad5cc0660eadb7853f99bc151"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4009",
+   "short": "Ley 4.009",
+   "title": "Ley 4.009: MODIFICACIÓN LEY 1600 – DE ORGÁNICA DE LA JUSTICIA DE LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57924",
+   "versions": [
+    {
+     "from": "2026-06-25",
+     "units": 16,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57924",
+     "sha256": "0888738798e7708ae2c8b0647a72aa60817d2b48c92c6ce3be8a350c5ced93a2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4008",
+   "short": "Ley 4.008",
+   "title": "Ley 4.008: ESPACIOS DE CALMA EN INSTITUCIONES EDUCATIVAS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57923",
+   "versions": [
+    {
+     "from": "2026-07-04",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57923",
+     "sha256": "23235b6cfb397b29aadb65fad7439bcf3e12012be03c5133205a0fdbdeaf2ae1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4007",
+   "short": "Ley 4.007",
+   "title": "Ley 4.007: 28 DE MARZO - DÍA DEL JUBILADO EN LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57922",
+   "versions": [
+    {
+     "from": "2026-07-04",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57922",
+     "sha256": "1634f312e3ddc2a8537d6f2dba295c014033fbc96343d2b310520d31174a75f9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4006",
+   "short": "Ley 4.006",
+   "title": "Ley 4.006: DÍA PROVINCIAL DEL TESTIGO POR DELITOS DE LESA HUMANIDAD",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57921",
+   "versions": [
+    {
+     "from": "2026-07-04",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57921",
+     "sha256": "c433244c6425b69844b90ed6dbf54a51a5c6c3575364129e617e22f560e6064d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4005",
+   "short": "Ley 4.005",
+   "title": "Ley 4.005: EJERCICIO PROFESIONAL EN OBSTETRICIA EN LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57920",
+   "versions": [
+    {
+     "from": "2026-07-04",
+     "units": 32,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57920",
+     "sha256": "dd3b87ffe4d8bef69f5ae55c5b9614561af1aecc4f451f40fd36a9c043e46c5c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4004",
+   "short": "Ley 4.004",
+   "title": "Ley 4.004: MODIFICACIÓN LEY 3183",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57919",
+   "versions": [
+    {
+     "from": "2026-07-04",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57919",
+     "sha256": "18b1bb0db2776c5f2968054fc8c55ea4bf7c39cda9f01991dbf0908896dcca86"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4003",
+   "short": "Ley 4.003",
+   "title": "Ley 4.003: MODIFICACIÓN LEY 3123",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57918",
+   "versions": [
+    {
+     "from": "2026-07-04",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57918",
+     "sha256": "4479e1739dd4b1d1a80ac073a00d407e8be5672b370b74acd38b33944abdb5e3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4002",
+   "short": "Ley 4.002",
+   "title": "Ley 4.002: DÍA DE SANTA BÁRBARA, PATRONA DE LOS MINEROS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57137",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57137",
+     "sha256": "de5e2b5697c682c0c020bd28796c0dfc149c8030922d5a1c7ab588955ec07721"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4001",
+   "short": "Ley 4.001",
+   "title": "Ley 4.001: DECLARAR A LA X BRIGADA AÉREA DE RÍO GALLEGOS COMO UNIDAD HERÓICA PROVINCIAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57136",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57136",
+     "sha256": "234303f72908e92cc01a649398c7b4def9482e88b589be0bdda82d2c6cd7b3f8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-4000",
+   "short": "Ley 4.000",
+   "title": "Ley 4.000: ADHESIÓN LEY NACIONAL 27654",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57135",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57135",
+     "sha256": "0b95ee0a6402c051bee16329d271ebdee32692bca530d76b9c77501cd3b17943"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3999",
+   "short": "Ley 3.999",
+   "title": "Ley 3.999: PROGRAMA INTEGRAL PARA LA DETECCIÓN TEMPRANA DE MALTRATO INFANTIL Y ADOLESCENTE",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57133",
+   "versions": [
+    {
+     "from": "2026-06-06",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/57133",
+     "sha256": "8f398dd4a83f54a97103e6c3c333626983262f4ec165d065316d31b593567f40"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3998",
+   "short": "Ley 3.998",
+   "title": "Ley 3.998: MEMBRETE DOCUMENTACIÓN OFICIAL 2026",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/56006",
+   "versions": [
+    {
+     "from": "2026-05-09",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/56006",
+     "sha256": "8d8c928b0c054e63ac0e8e6258bc0d5a289be8770474696849b05ae75e798ca2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3997",
+   "short": "Ley 3.997",
+   "title": "Ley 3.997: ACOMPAÑAMIENTO EN SITUACIONES DE PÉRDIDA PERINATAL O NEONATAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/55073",
+   "versions": [
+    {
+     "from": "2026-04-18",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/55073",
+     "sha256": "06185b55a0ad29173785f00aa5ca404157d7d7bc74b0f311872d56f2aefe8f04"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3996",
+   "short": "Ley 3.996",
+   "title": "Ley 3.996: DECLARAR - EMERGENCIA COMERCIAL, INDUSTRIAL Y PYME - PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53970",
+   "versions": [
+    {
+     "from": "2026-03-12",
+     "units": 18,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53970",
+     "sha256": "4691117345d050e80a97821e84dd7325389f78fdb1be0706db1653ebc98b8742"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3995",
+   "short": "Ley 3.995",
+   "title": "Ley 3.995: OBJETO - PRESENTE LEY EL ORDENAMIENTO DE LA EXPLOTACIÓN DE ALGAS MARINAS EN LAS PLAYAS Y TODO EL MAR TERRITORIAL SOMETIDO A LA JURISDICCIÓN DE LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53654",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 31,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53654",
+     "sha256": "b694f4d9f3504b251f40a468f418a3609a7af5b46bd2cdbd469982da2f3d6746"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3994",
+   "short": "Ley 3.994",
+   "title": "Ley 3.994: DECLARAR EMERGENCIA HÍDRICA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53602",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53602",
+     "sha256": "749778c06b6ecf1d98380b80d698aeabc5c33fee6d71014ac4a8894fa9cd0698"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3993",
+   "short": "Ley 3.993",
+   "title": "Ley 3.993: DETECTORES DE MONÓXIDO DE CARBONO Y GAS NATURAL EN EDIFICIOS PÚBLICOS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53601",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 19,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53601",
+     "sha256": "091d89fd174b6c18331048112c76c2cc66d5a64263028e8b556f6b48d2174203"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3992",
+   "short": "Ley 3.992",
+   "title": "Ley 3.992: ADHESIÓN LEY NACIONAL 27.642",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53600",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53600",
+     "sha256": "093809507e85a905f646bac13bb136789096e1c7f16b617408595b7c5487c06c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3991",
+   "short": "Ley 3.991",
+   "title": "Ley 3.991: ADHESIÓN A LA LEY NACIONAL 27.575",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53599",
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53599",
+     "sha256": "d50e176649164f96d0fada66b94908bc829858360773b65594733b049ffbf623"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3990",
+   "short": "Ley 3.990",
+   "title": "Ley 3.990: DÍA PROVINCIAL DE LA SEGURIDAD DEL PACIENTE",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53598",
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/53598",
+     "sha256": "6fa88553bf89c2cca562186b212ca62cf8cc380a56a762d2250af61d7a1e7748"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3978",
+   "short": "Ley 3.978",
+   "title": "Ley 3.978: CREACIÓN DEL PROGRAMA “SANTA CRUZ ALQUILA”",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52765",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52765",
+     "sha256": "2f7afe87747da47a5349e1d1ebf9fcc555d95328495c6342f1e66bf9f3796054"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3977",
+   "short": "Ley 3.977",
+   "title": "Ley 3.977: PLAN INTEGRAL DE FIBROMIALGIA, SENSIBILIDAD QUÍMICA MÚLTIPLE, SÍNDROME DE FATIGA CRÓNICA Y ELECTROHIPERSENSIBILIDAD",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52763",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52763",
+     "sha256": "5a76a9cb0603a7303d3aece06fc6064929012f132a872e8a17fa0283864a973f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3976",
+   "short": "Ley 3.976",
+   "title": "Ley 3.976: DECLARACIÓN DEL SALMÓN CHINOOK COMO ESPECIE EXÓTICA INVASORA Y AUTORIZACIÓN PARA SU CONTROL Y APROVECHAMIENTO REGULADO EN LA CUENCA DEL RÍO SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52762",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 13,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52762",
+     "sha256": "a7375b74cdb7f59822e68ef275ba81e186d7110b3952e07e76cd4e7db629deca"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3975",
+   "short": "Ley 3.975",
+   "title": "Ley 3.975: PROGRAMA PROVINCIAL DE BUENAS PRÁCTICAS EN ACCESIBILIDAD COGNITIVA Y COMUNICACIONAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52761",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 15,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52761",
+     "sha256": "e91bf8027d7626b24b124e37e22dfd91fae838a767f505966a30139cb9140cf1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3974",
+   "short": "Ley 3.974",
+   "title": "Ley 3.974: MODIFICACIÓN LEY 3755 – DE ADMINISTRACIÓN FINANCIERA Y DE LOS SISTEMAS DE CONTROL DEL SECTOR PÚBLICO PROVINCIAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52760",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52760",
+     "sha256": "9c3721d698a686eb86ea7bd78cd13864e33f28ac751ff56367f1dc0a11be0642"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3973",
+   "short": "Ley 3.973",
+   "title": "Ley 3.973: CREACIÓN DE CASAS DE MEDIO CAMINO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52759",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52759",
+     "sha256": "dc895a490eed5771fe44e55951907732d2d28010c943bda76662b6f998f468a0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3972",
+   "short": "Ley 3.972",
+   "title": "Ley 3.972: ADHESIÓN LEY NACIONAL 27535",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52758",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52758",
+     "sha256": "e0ea520c54cb0cfef4dc0cf6bc6bb5e22d0241e3bafc51140cdceb2d2d51e440"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3971",
+   "short": "Ley 3.971",
+   "title": "Ley 3.971: DÍA DEL ORGULLO MAYOR",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52757",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52757",
+     "sha256": "a26f529906a6b2dba52faf2c93ab2ba16e3008fa89cd58a2496790862c9631af"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3970",
+   "short": "Ley 3.970",
+   "title": "Ley 3.970: ADHESIÓN A LA LEY NACIONAL 27675",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52756",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52756",
+     "sha256": "73491c5cfdcfb15e69627f2a8280a101c957c48e96d151b853f60c3a20e9c7b2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3969",
+   "short": "Ley 3.969",
+   "title": "Ley 3.969: MODIFICACIÓN LEY 3121",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52755",
+   "versions": [
+    {
+     "from": "2026-01-15",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52755",
+     "sha256": "bdd7bcc6db37cb25d3e1c91b4f794b62e69f5023cf5edf034d6ff1ff556f2473"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3968",
+   "short": "Ley 3.968",
+   "title": "Ley 3.968: LIBRETA SANITARIA INFANTIL DIGITAL SANTACRUCEÑA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52457",
+   "versions": [
+    {
+     "from": "2025-12-27",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52457",
+     "sha256": "63b458411aec16785bb3e78fb026bb5f1f21dbe3722f01401d4c830569a848b9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3967",
+   "short": "Ley 3.967",
+   "title": "Ley 3.967: ESPACIOS AMIGABLES DE LACTANCIA (LACTARIOS) EN TODAS LAS DEPENDENCIAS DE ORGANISMOS DE LA ADMINISTRACIÓN PÚBLICA PROVINCIAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52456",
+   "versions": [
+    {
+     "from": "2025-12-27",
+     "units": 13,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52456",
+     "sha256": "ed1305be8f5ea412374bbdd4d791c50ad5c5b3d40826529be41c7e2f3ece2afa"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3966",
+   "short": "Ley 3.966",
+   "title": "Ley 3.966: ADHESIÓN A LA LEY NACIONAL 27.665",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52455",
+   "versions": [
+    {
+     "from": "2025-12-27",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52455",
+     "sha256": "dd2d46bdf18a584ad6f2d8f009d4e9664701e676a4b9ef3fea18e4d1d1fa5078"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3965",
+   "short": "Ley 3.965",
+   "title": "Ley 3.965: CREACIÓN DEL JUZGADO DE INSTRUCCIÓN PENAL Y JUVENIL EN LOS ANTIGUOS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52454",
+   "versions": [
+    {
+     "from": "2025-12-27",
+     "units": 16,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52454",
+     "sha256": "889b1c33bdcf637d5da219afb23736f48be9f83941f9cd24d397a433e05934ca"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3964",
+   "short": "Ley 3.964",
+   "title": "Ley 3.964: CONVENIO MULTILATERAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52230",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/52230",
+     "sha256": "bd2bed7b6a9ace9a4bf94f184ae13f791d3e5ef5773b33706045f0b90c4ceb10"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3963",
+   "short": "Ley 3.963",
+   "title": "Ley 3.963: EJERCICIO PROFESIONAL DE KINESIOLOGÍA Y FISIOTERAPIA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/51922",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 30,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/51922",
+     "sha256": "1dc4db01b23177cd7bbfd728a1553bae929bc09f1a831c431babc563b94654be"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3962",
+   "short": "Ley 3.962",
+   "title": "Ley 3.962: MODIFICACIÓN LEY 3095 - DE ADHESIÓN A LA LEY NACIONAL 26.370",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/51918",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/51918",
+     "sha256": "2e94d8d09d1944149a7424664ed0a999fb78fa4b513e7ee96143b43f9c9e2697"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3961",
+   "short": "Ley 3.961",
+   "title": "Ley 3.961: ILUMINACIÓN DE EDIFICIOS PÚBLICOS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/51917",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/51917",
+     "sha256": "9fea972053e646298a4391bda35596186dd5303cdcef69a7218d0de95aba4405"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3960",
+   "short": "Ley 3.960",
+   "title": "Ley 3.960: MODIFICACIÓN LEY 3141",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/50056",
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/50056",
+     "sha256": "bdc9e0ef4897dc392afc8585790d36d8557de6ff50c4996320b7bdd84e8c8ba4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3958",
+   "short": "Ley 3.958",
+   "title": "Ley 3.958: ADHESIÓN A LA LEY NACIONAL 27.118",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/50054",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/50054",
+     "sha256": "b6ad91a26cde969312801b6fcd2c9f9020a313ca675ffa00b0440afc5548fba8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3957",
+   "short": "Ley 3.957",
+   "title": "Ley 3.957: REGULACIÓN DE MATERIALES NO FERROSOS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/50053",
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "units": 22,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/50053",
+     "sha256": "39050218a625dc16d561c6571261db79911594d42c3f8d8eff31acc7db4fe89d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3955",
+   "short": "Ley 3.955",
+   "title": "Ley 3.955: CREACIÓN DEL JUZGADO DE PRIMERA INSTANCIA DE FAMILIA DE LA LOCALIDAD DE 28 DE NOVIEMBRE",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49552",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49552",
+     "sha256": "345131f5ddb0304a831145689be4fa466aac03816f84a52c3193dd4cc1e92b0a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3956",
+   "short": "Ley 3.956",
+   "title": "Ley 3.956: MODIFICACIÓN LEY 3877 – DE CREACIÓN DE LA S.A.U. SANTA CRUZ PUEDE",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49548",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49548",
+     "sha256": "c1c41fc35bba15e030fe57f6b9ade8fe39cadd7ea0cd940acfab20b3222cad32"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3953",
+   "short": "Ley 3.953",
+   "title": "Ley 3.953: CREACIÓN DEL CONSEJO PROVINCIAL DEL ADULTO MAYOR",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49543",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49543",
+     "sha256": "a2896abc877ed5e20db68591f3326b2b95ce7accbd779475a95d8808aca7aae7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3954",
+   "short": "Ley 3.954",
+   "title": "Ley 3.954: EDUCACIÓN FINANCIERA Y NUEVAS TECNOLOGÍAS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49542",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49542",
+     "sha256": "e22b1edd074dd54703982c61e528b371e5c377a1fd20935bff2ea87577639de1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3952",
+   "short": "Ley 3.952",
+   "title": "Ley 3.952: PROGRAMA PATAGONIA REBELDE",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49538",
+   "versions": [
+    {
+     "from": "2025-10-11",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49538",
+     "sha256": "a5279aae9f2b608b39aac55a20277bc29da179dfe1e6a440b8984dfcb83b1ac6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3950",
+   "short": "Ley 3.950",
+   "title": "Ley 3.950: HONORARIOS PROFESIONALES DE ABOGADOS, PROCURADORES Y AUXILIARES DE LA JUSTICIA DE LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49321",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 72,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/49321",
+     "sha256": "549e852d8335b29b3ae0b7e310019a7c6372be8f8476e9807565e8f1e494413f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3949",
+   "short": "Ley 3.949",
+   "title": "Ley 3.949: MODIFICACIÓN LEY 1600 – DE ORGÁNICA DE LA JUSTICIA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/48592",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/48592",
+     "sha256": "407fc0af2ccbae8d159de78c94b9775e5786b556816bd07328c6537618f0c9d6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3948",
+   "short": "Ley 3.948",
+   "title": "Ley 3.948: CALETA OLIVIA CAPITAL PROVINCIAL DE LAS BALLENAS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/48591",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/48591",
+     "sha256": "0eb8993d646af5aed6c0c5174fe561e5b4d5edcf9e11b94e1511e4b6c9327d9b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3947",
+   "short": "Ley 3.947",
+   "title": "Ley 3.947: PROMULGAR - MEDIDAS CAUTELARES EN LAS CAUSAS EN LAS QUE ES PARTE O INTERVIENE EL ESTADO PROVINCIAL, MUNICIPAL, SUS ENTES AUTÁRQUICOS O DESCENTRALIZADOS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47607",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 24,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47607",
+     "sha256": "d948151640f67a7a3c125ecbe2033c39a0e3f965bcd258c12a2d11b4b45f5470"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3946",
+   "short": "Ley 3.946",
+   "title": "Ley 3.946: MODIFICACIÓN DEL CÓDIGO PROCESAL CIVIL Y COMERCIAL DE LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47540",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47540",
+     "sha256": "fd24a4d93acf31750db7e69db1df7ed1fa4fce5327d288c13a8c4f005bad5334"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3945",
+   "short": "Ley 3.945",
+   "title": "Ley 3.945: ESTABLECER - MARCO LEGAL CONTROL FITOSANITARIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47538",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 12,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47538",
+     "sha256": "b5f74b57305866aec08df6db2f07dba48b65e2923bd443b51ec531c4328fc9d2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3944",
+   "short": "Ley 3.944",
+   "title": "Ley 3.944: APROBAR - COBERTURA BÁSICA OBLIGATORIA EN SALUD MENTAL PARA AFILIADOS/AS DE LA CAJA DE SERVICIOS SOCIALES DE LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47537",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47537",
+     "sha256": "a7f3e4ee86056b840548ccc7286c347a69826bac8a9e84dea1325f8491daf154"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3943",
+   "short": "Ley 3.943",
+   "title": "Ley 3.943: CREAR - ÍNDICE DE CRIANZA SANTACRUCEÑO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47536",
+   "versions": [
+    {
+     "from": "2025-08-28",
+     "units": 13,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47536",
+     "sha256": "a4173779423f89b9fe24ecab0854efa0b48f5a2f3a77aa3086f31b1b1aa54174"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3942",
+   "short": "Ley 3.942",
+   "title": "Ley 3.942: MODIFICACIÓN LEY 3913 - DE EJERCICIO DE LA ABOGACÍA Y COLEGIACIÓN PÚBLICA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47514",
+   "versions": [
+    {
+     "from": "2025-08-23",
+     "units": 13,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47514",
+     "sha256": "a0a38403b3a149baf8f4c342310a4d4326fd43b3715c7000db763b4a9e27575f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3940",
+   "short": "Ley 3.940",
+   "title": "Ley 3.940: MODIFICACIÓN LEY 2041",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47513",
+   "versions": [
+    {
+     "from": "2025-08-23",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47513",
+     "sha256": "fe8a82270e007b51cf97239351e20fdd8bc043c03f0e02fb592e2e28f6282270"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3939",
+   "short": "Ley 3.939",
+   "title": "Ley 3.939: DECLÁRESE DE INTERÉS PÚBLICO Y PROVINCIAL - ASTILLERO CALETA PAULA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47512",
+   "versions": [
+    {
+     "from": "2025-08-23",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47512",
+     "sha256": "864afd38f74d52913fdb07cc66a0aa2ef050f58e91cc186788cede4aa3c6136d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3941",
+   "short": "Ley 3.941",
+   "title": "Ley 3.941: ADHERIR A LA DEFINICIÓN DE ANTISEMITISMO DE LA IHRA, EN TODO EL ÁMBITO PÚBLICO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47511",
+   "versions": [
+    {
+     "from": "2025-08-23",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47511",
+     "sha256": "88f5c105f5f57b0a3ce440685f751dab7bd4e1985a7702caa8754d6639f111e2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3938",
+   "short": "Ley 3.938",
+   "title": "Ley 3.938: PROMULGACIÓN - LEY N° 3938 - REGULACIÓN DE ORGANIZACIÓN Y CONSTITUCIÓN DEL TRIBUNAL DE CUENTAS DE LA PROVINCIA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47416",
+   "versions": [
+    {
+     "from": "2025-08-21",
+     "units": 88,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/47416",
+     "sha256": "018991927c97a83f8543f50587e48ffcad7c0775414d2f68eb1fe8a2160499a8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3930",
+   "short": "Ley 3.930",
+   "title": "Ley 3.930: PROMÚLGASE BAJO LEY N° 3930 SANCIONADA POR LA HONORABLE CÁMARA DE DIPUTADOS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/45749",
+   "versions": [
+    {
+     "from": "2025-06-28",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/45749",
+     "sha256": "b038d485e7be002665f8358ecc0b563fb9318b707911f24f635076238c7e4bbd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3918",
+   "short": "Ley 3.918",
+   "title": "Ley 3.918: CREASE - PROGRAMA DE ACOMPAÑAMIENTO A PERSONAS EN SITUACIÓN DE RIESGO POR VIOLENCIA DE GENERO - PROGRAMA ACOMPAÑAR",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44996",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 25,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44996",
+     "sha256": "8fd49a20e20debf73338a4a9d8e504d56968b0faf35ed552876c8650dd7fd16a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3927",
+   "short": "Ley 3.927",
+   "title": "Ley 3.927: INSTITUIR - POLÍTICA PÚBLICA - MEDIACIÓN PARA LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44988",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44988",
+     "sha256": "d1c696a64642fedba335a30dc32d739b6b17c39a885d6061f4ddb6d62c153e25"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3922",
+   "short": "Ley 3.922",
+   "title": "Ley 3.922: DECLARAR - DÍA PROVINCIAL DE LAS TAREAS DE CUIDADO Y DEL TRABAJO NO REMUNERADO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44987",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44987",
+     "sha256": "1abacba29e3d5b7ceb2c35460db732823a93fa505e3b13079fe65f8a02e6fe4c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3916",
+   "short": "Ley 3.916",
+   "title": "Ley 3.916: CREACIÓN DEL PROGRAMA DE SALUD MENTAL EN REDES SOCIALES \"SANTA CRUZ MENTAL\"",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44986",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44986",
+     "sha256": "4e2e4af3309588b47828869bc2b491b8e3b58c3ebf3e40f72143e89e5c36fe77"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3921",
+   "short": "Ley 3.921",
+   "title": "Ley 3.921: INSTITUIR - 7 DE MARZO DE CADA AÑO - \"DÍA DE LA VISIBILIDAD LÉSBICA\"",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44985",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44985",
+     "sha256": "e06b43ca2fd4151b9fc047920381aeeebfe6bebba616cc9ceb706494e1ff703a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3926",
+   "short": "Ley 3.926",
+   "title": "Ley 3.926: INSTITUIR - 09 DE ABRIL DE CADA AÑO - \"DÍA PROVINCIAL DE LA CONCIENTIZACIÓN EN SEGURIDAD LABORAL MINERA\"",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44984",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44984",
+     "sha256": "257c732242487035d30941b5b0aa6c03f502fff5f0a69c4b1a51cbc799b2fd2f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3920",
+   "short": "Ley 3.920",
+   "title": "Ley 3.920: DECLARAR - 28 DE JULIO DE CADA AÑO - \"DÍA PROVINCIAL DE INTEGRIDAD TERRITORIAL ARGENTINA\"",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44983",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44983",
+     "sha256": "d24522113900ec9d06f720ed63e5a68359c4d52e5f3435bd2a26ce7ad98d3b82"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3925",
+   "short": "Ley 3.925",
+   "title": "Ley 3.925: OTORGAR - RECONOCIMIENTO HISTÓRICO \"SOLDADO DE MALVINAS\"",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44982",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 15,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44982",
+     "sha256": "7e7a76d0e9ca798d6c00e30eafede6fdbbc1c80c03272c158882c17a2c6ae18f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3919",
+   "short": "Ley 3.919",
+   "title": "Ley 3.919: DECLARAR - PRESENTE AÑO COMO CONMEMORATIVO AL \"10° ANIVERSARIO DE NI UNA MENOS\"",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44981",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44981",
+     "sha256": "35de00586589e0d7667e6ea0f48a96475cfbbdf2177542dd0fcf3122935560ac"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3917",
+   "short": "Ley 3.917",
+   "title": "Ley 3.917: OBJETO - QUEDA SUJETO A LAS DISPOSICIONES DE LA PRESENTE LEY Y SU REGLAMENTACIÓN",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44980",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 38,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/44980",
+     "sha256": "d8734b5f65cce729fde8b241ecd26e321626d28fe0d5242bcc4c9fb83eecb867"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3914",
+   "short": "Ley 3.914",
+   "title": "Ley 3.914: DECLARAR EMERGENCIA HIDROCARBURÍFERA - TERRITORIO CONTINENTAL DE LA PROV. DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/43485",
+   "versions": [
+    {
+     "from": "2025-04-19",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/43485",
+     "sha256": "27375cf06ef95c296493139b5801fa54de30eaece13e296615b61874e74a63e8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3913",
+   "short": "Ley 3.913",
+   "title": "Ley 3.913: EJERCICIO DE LA ABOGACÍA - COLEGIO PÚBLICO DE ABOGADOS - LEY DE COLEGIACIÓN PÚBLICA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41666",
+   "versions": [
+    {
+     "from": "2025-01-25",
+     "units": 79,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41666",
+     "sha256": "617558ed292d2846a01d700cfb6c5c403da1e5df3e754019f54d9ca0020601c0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3912",
+   "short": "Ley 3.912",
+   "title": "Ley 3.912: ADHESIÓN AL TÍTULO VII DENOMINADO - RÉGIMEN DE INCENTIVO PARA GRANDES INVERSIONES” DE LA LEY 27.742",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41593",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41593",
+     "sha256": "9aa55c3e51219fb4a00955febd10e007d6dd0956ad650cbd4a9a499a1acc205d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3911",
+   "short": "Ley 3.911",
+   "title": "Ley 3.911: FESTIVAL PROVINCIAL DEL PETRÓLEO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41587",
+   "versions": [
+    {
+     "from": "2025-01-23",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41587",
+     "sha256": "b11c37d656744f0ddd268e354852e405e9ea9114539fc36f5825cd9c04aec322"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3910",
+   "short": "Ley 3.910",
+   "title": "Ley 3.910: CONSEJO DE LA MAGISTRATURA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41573",
+   "versions": [
+    {
+     "from": "2025-01-18",
+     "units": 38,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41573",
+     "sha256": "6b21e34addacf5736186e9cbbc5df8236fa8d24e74d2a5b19f7086e8b6b44628"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3909",
+   "short": "Ley 3.909",
+   "title": "Ley 3.909: PRESUPUESTO DE LA HONORABLE CÁMARA DE DIPUTADOS - 2025",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41476",
+   "versions": [
+    {
+     "from": "2025-01-12",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41476",
+     "sha256": "7b24c32a6f1c4c30ffd7f8155d4ee19d7faa7730577ac17b09b4e8fa38420ae4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3908",
+   "short": "Ley 3.908",
+   "title": "Ley 3.908: PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PROVINCIAL - AÑO 2025 - PRESUPUESTO DE LA ADMINISTRACIÓN PÚBLICA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41475",
+   "versions": [
+    {
+     "from": "2025-01-12",
+     "units": 45,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41475",
+     "sha256": "e690163f2ecdfea5f38ab4cfcf636e1659bfd14f8c5acc3761370b81ae9e59b8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3905",
+   "short": "Ley 3.905",
+   "title": "Ley 3.905: REGULACIÓN DEL EJERCICIO Y CREACIÓN COLEGIO DE PROFESIONALES DE LA PSICOPEDAGOGÍA EN SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41264",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 93,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41264",
+     "sha256": "c2e29ac2884060f2258c43f9fbe28283d068ff3309e6c6efbc99017aa8346422"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3900",
+   "short": "Ley 3.900",
+   "title": "Ley 3.900: RÉGIMEN EXCEPCIONAL DE REGULARIZACIÓN IMPOSITIVA Y FACILIDADES DE PAGO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41263",
+   "versions": [
+    {
+     "from": "2024-12-29",
+     "units": 21,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41263",
+     "sha256": "a67e3141dc17f1b5cad6c814a619dd2eef2bb2900639eccdd746ca7b122f5276"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3907",
+   "short": "Ley 3.907",
+   "title": "Ley 3.907: ADHESIÓN LEY NACIONAL 27.553",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41237",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41237",
+     "sha256": "8d8e1d7d0633c4aaa479551e84189adf66cd2fdcb23bfe837b9c966f2caad860"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3906",
+   "short": "Ley 3.906",
+   "title": "Ley 3.906: DÍA PROVINCIAL CONTRA LA VIOLENCIA Y EL ACOSO ESCOLAR, INCLUIDO EL CIBERACOSO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41236",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41236",
+     "sha256": "a8024d28002ad2cb76aa6f67e1c61f451697ddee521eb7fdfead8da75fa95307"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3904",
+   "short": "Ley 3.904",
+   "title": "Ley 3.904: 15 DE NOVIEMBRE - MEMORIA DE LOS 44 HÉROES Y HEROÍNA DEL SUBMARINO ARA SAN JUAN Y LA REAFIRMACIÓN Y DEFENSA DE LOS DERECHOS SOBERANOS DEL MAR ARGENTINO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41234",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41234",
+     "sha256": "2e330a8e71155802b967f9d0502d9278990c213c1aa10e18c6feb9bf8df295b2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3903",
+   "short": "Ley 3.903",
+   "title": "Ley 3.903: CANCIÓN OFICIAL DE LA PROVINCIA DE SANTA CRUZ - CANTAUTOR HUGO GIMÉNEZ AGÜERO “CHALTÉN”",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41220",
+   "versions": [
+    {
+     "from": "2024-12-29",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41220",
+     "sha256": "9c1289ef4c83ade15d9a654e53ba45c0ed4632fb1d5cb16e7b915cd06eaf21ab"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3902",
+   "short": "Ley 3.902",
+   "title": "Ley 3.902: INVERSIÓN DE LOS SALDOS DE CAJA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41219",
+   "versions": [
+    {
+     "from": "2024-12-29",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41219",
+     "sha256": "34d6e538e80edc36c94d0751f779794b6c90409fe701f4de79012895335de787"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3901",
+   "short": "Ley 3.901",
+   "title": "Ley 3.901: MODIFICACIÓN LEY 760",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41209",
+   "versions": [
+    {
+     "from": "2024-12-29",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/41209",
+     "sha256": "cd333bd06cc606c29e7ca76fc863918e61154edda73e8c8e154d61dbbe05ab6b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3898",
+   "short": "Ley 3.898",
+   "title": "Ley 3.898: PREVENCIÓN DE LA VIOLENCIA EN TODAS SUS FORMAS Y CAPACITACIÓN SOBRE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ÁMBITO EDUCATIVO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40840",
+   "versions": [
+    {
+     "from": "2024-12-14",
+     "units": 17,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40840",
+     "sha256": "6dc98cc988f72775d4170a5ff991e96dabd00823a5069874060424b0c086fe4f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3899",
+   "short": "Ley 3.899",
+   "title": "Ley 3.899: CREACIÓN MESA DE TRABAJO PARA PLAN DE CONTINGENCIA DE TRANSPORTE DE CARGAS PELIGROSAS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40747",
+   "versions": [
+    {
+     "from": "2024-12-14",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40747",
+     "sha256": "1a7de59f4c3260b3e4f6d4f8e893a94b4c8074ec09bad673648f41c640265c2a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3894",
+   "short": "Ley 3.894",
+   "title": "Ley 3.894: PROCEDIMIENTOS DE ACCIÓN EN INFANCIAS Y ADOLESCENCIAS CON DIABETES EN LOS TRES NIVELES EDUCATIVOS CURRICULARES",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40254",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 16,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40254",
+     "sha256": "30d681edf5f4c55128521dac6326c3be25d4b8eec778d0e00401cc8a6d9b72fb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3893",
+   "short": "Ley 3.893",
+   "title": "Ley 3.893: MES DE LAS INFANCIAS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40248",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40248",
+     "sha256": "73ed33fbc77f018d1add8e2645f3e0dcb9e7f63eb74dfc7ad6cd1687e6de27ee"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3892",
+   "short": "Ley 3.892",
+   "title": "Ley 3.892: CREACIÓN JUZGADO DE PAZ EN LA COMISIÓN DE FOMENTO NUESTRA SEÑORA DE LOS DOLORES DE KOLUEL KAIKE",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40245",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40245",
+     "sha256": "94ff1585cbdb7fb2b320328c4cff0c4981db62eed963fc7aa28455578f9c96ce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3891",
+   "short": "Ley 3.891",
+   "title": "Ley 3.891: AMPLIACIÓN DEL EJIDO MUNICIPAL DE LA CIUDAD DE PICO TRUNCADO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40241",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40241",
+     "sha256": "5d8e67552f52734802b3ce769c68f03b17d3f7b7c90a60da8bced4d65ed01eab"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3890",
+   "short": "Ley 3.890",
+   "title": "Ley 3.890: COMISIÓN ESPECIAL YACIMIENTOS CARBONÍFEROS RÍO TURBIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40231",
+   "versions": [
+    {
+     "from": "2024-11-23",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40231",
+     "sha256": "229ae7c53d84779b32c15c7b2aa7c29b7545dc6edc7ca7969129511421515cb1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3889",
+   "short": "Ley 3.889",
+   "title": "Ley 3.889: PRÓRROGA “AD-REFERÉNDUM” DEL ESTADO DE EMERGENCIA ALIMENTARIA Y ADMINISTRATIVA DISPUESTO POR LEY N° 3.850",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40228",
+   "versions": [
+    {
+     "from": "2024-11-23",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40228",
+     "sha256": "97de6a9a9578a82c09c74e93dc11cf56e22ee69d17e1429db4d5127dd7eccbba"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3888",
+   "short": "Ley 3.888",
+   "title": "Ley 3.888: ADHESIÓN LEY NACIONAL N° 24.561",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40227",
+   "versions": [
+    {
+     "from": "2024-11-23",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40227",
+     "sha256": "c0c6822781a0a675871a4cf6c1b01d6d1c9ded902ca02eec4894602f55aac429"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3887",
+   "short": "Ley 3.887",
+   "title": "Ley 3.887: DÍA PROVINCIAL DEL ESTUDIANTE DE TURISMO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40226",
+   "versions": [
+    {
+     "from": "2024-11-23",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40226",
+     "sha256": "84184774f8db1b803b3a70523f22eea79d3e1ba6a866b5dabccd494c31e5b36c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3886",
+   "short": "Ley 3.886",
+   "title": "Ley 3.886: MODIFICACIÓN AL CÓDIGO PROCESAL PENAL DE LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40225",
+   "versions": [
+    {
+     "from": "2024-11-23",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/40225",
+     "sha256": "850cb766af05dacecf028c5a4d10dee3d4b2862d9d093dbfd7b5cfb83380dc3c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3885",
+   "short": "Ley 3.885",
+   "title": "Ley 3.885: PROGRAMA DE CONTROL AMBIENTAL ENERGÉTICO Y MINERO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39412",
+   "versions": [
+    {
+     "from": "2024-10-15",
+     "units": 12,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39412",
+     "sha256": "555f75781981a59e382e1ac16e5894e68021b3c3509464dc4013f45b4a8d3e2b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3884",
+   "short": "Ley 3.884",
+   "title": "Ley 3.884: ADHESIÓN LEY NACIONAL 27.706",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39409",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39409",
+     "sha256": "5d442f6012595da1dd2c4448072ac474d6049163271ffdade5508d29f7b7cb9a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3883",
+   "short": "Ley 3.883",
+   "title": "Ley 3.883: ESTABLÉCESE 25 DE MARZO DÍA “DÍA DEL NIÑO POR NACER”",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39408",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39408",
+     "sha256": "1fc25c0686abde8793445fd88e64b4f152f76d39a2b207d24c8cae4df1c69c62"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3882",
+   "short": "Ley 3.882",
+   "title": "Ley 3.882: TOMA DE PROMESA DE LEALTAD A LA BANDERA POR PARTE DE HÉROES DE MALVINAS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39407",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39407",
+     "sha256": "f918fef5efc83b70dba51d9f81101071ed09b80094777a90286de5c734c9a37c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3881",
+   "short": "Ley 3.881",
+   "title": "Ley 3.881: ADHESIÓN LEY NACIONAL 27.711",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39405",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39405",
+     "sha256": "05abd7f08702e3fdedb2ccffa01c47b34e9ec88cef99031e33049b3e7a42682e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3880",
+   "short": "Ley 3.880",
+   "title": "Ley 3.880: EMERGENCIA HABITACIONAL EN EL ÁMBITO DE LA LOCALIDAD DE “EL CHALTÉN”",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39339",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39339",
+     "sha256": "7cf65cabb434d43d47aabdcdbeb3948cda4a8e1e5d67fad9f886c8a35e8b60db"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3879",
+   "short": "Ley 3.879",
+   "title": "Ley 3.879: PRÓRROGA DE CONCESIÓN HIDROCARBURÍFERA - ÁREA DENOMINADA “ANTICLINAL AGUADA BANDERA”",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39338",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39338",
+     "sha256": "45e59530578783895f918995388d516ede03b66118d9ac767a467aaa94dba822"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3878",
+   "short": "Ley 3.878",
+   "title": "Ley 3.878: PRÓRROGA DE CONCESIÓN HIDROCARBURÍFERA - ÁREA DENOMINADA “EL VALLE”",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39336",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39336",
+     "sha256": "24716b9df8d1d3b513ae58f4e4c049b7b9fc312c5d1072284c93ee2f88b30a87"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3616",
+   "short": "Ley 3.616",
+   "title": "Ley 3.616: MODIFICACIÓN LEY 3616 – DE CREACIÓN DEL REGISTRO ÚNICO DE PROVEEDORES DE ACTIVIDADES ECONÓMICAS EN EL ÁMBITO DEL MINISTERIO DE LA PRODUCCIÓN, COMERCIO E INDUSTRIA DE LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39209",
+   "versions": [
+    {
+     "from": "2024-10-24",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/39209",
+     "sha256": "4e60da386c5145e843b0d16ec8328e1c39ada865091ab4f9cc62e002388f0e53"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3330",
+   "short": "Ley 3.330",
+   "title": "Ley 3.330: MODIFICACIÓN LEY 3330 – DE ARANCELES Y HONORARIOS DE ABOGADOS Y PROCURADORES",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38926",
+   "versions": [
+    {
+     "from": "2024-10-10",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38926",
+     "sha256": "11cf94b9f1f8639e7e359dbe02ba9d25f0b09ab2d55577815ba7d69937e37be2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3877",
+   "short": "Ley 3.877",
+   "title": "Ley 3.877: CREACIÓN SANTA CRUZ PUEDE - SOCIEDAD ANÓNIMA UNIPERSONAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38859",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 48,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38859",
+     "sha256": "3fc45a157b6d35bae97d751f3bdbd24e37309b92bb01fbf1711f32131d8ea092"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3876",
+   "short": "Ley 3.876",
+   "title": "Ley 3.876: APROBACIÓN DEL DECRETO N° 107/23",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38857",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38857",
+     "sha256": "d6d70e8bc57a3547bf35e68e0b49ee9bc38e5fb2692c29ea80b4327f02eabd49"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3875",
+   "short": "Ley 3.875",
+   "title": "Ley 3.875: INCLUSIÓN LABORAL PARA MUJERES A CARGO DE FAMILIAS MONOMARENTALES",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38856",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38856",
+     "sha256": "45bf51b68d6ab20dc3c6318e5ed9e43f8bb24c2897b21663dd69e7dbd0541070"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3874",
+   "short": "Ley 3.874",
+   "title": "Ley 3.874: DECLARAR EMERGENCIA HÍDRICA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38855",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38855",
+     "sha256": "de0f6878535e3a551d10060120454561b5ab525e1cdb5889bb58f352642a0f2f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3873",
+   "short": "Ley 3.873",
+   "title": "Ley 3.873: MESA DE HIDRÓGENO SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38500",
+   "versions": [
+    {
+     "from": "2024-09-21",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38500",
+     "sha256": "064ca6a4589805e412b295055f2ab9e264da07eecc06af040806bd182835deb9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3871",
+   "short": "Ley 3.871",
+   "title": "Ley 3.871: DECLARASE 17 DE ABRIL DÍA PROVINCIAL DEL ASTROTURISMO EN SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38480",
+   "versions": [
+    {
+     "from": "2024-09-21",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38480",
+     "sha256": "8aed6fc00614b2b79d7e3723c7b8c9e05b194a7660bd436446e5937d5ce71676"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3870",
+   "short": "Ley 3.870",
+   "title": "Ley 3.870: DECLÁRASE 3 DE JUNIO DÍA PROVINCIAL “NI UNA MENOS”",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38479",
+   "versions": [
+    {
+     "from": "2024-09-21",
+     "units": 12,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38479",
+     "sha256": "762a69528b42fef26d15613fff5b6f279745a5d3d267dd9b4536c0286f701653"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3869",
+   "short": "Ley 3.869",
+   "title": "Ley 3.869: CREACIÓN DE LA OFICINA DE FORTALECIMIENTO DE LA PERSPECTIVA DISCAPACIDAD EN EL ÁMBITO DE LA JUSTICIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38478",
+   "versions": [
+    {
+     "from": "2024-09-21",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38478",
+     "sha256": "8f4744f7893f46d80c133636b2d0adc83306aac971afea388d89463ce6ec9a91"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3868",
+   "short": "Ley 3.868",
+   "title": "Ley 3.868: FIESTA PROVINCIAL DEL FRÍO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38461",
+   "versions": [
+    {
+     "from": "2024-09-21",
+     "units": 4,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38461",
+     "sha256": "253e60209b4bb42e899337515bd2426f122078c22b970f974a8a21b0d10054b3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3872",
+   "short": "Ley 3.872",
+   "title": "Ley 3.872: PLAN PROVINCIAL DE PREVENCIÓN DE LA LUDOPATÍA EN EL ÁMBITO EDUCATIVO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38460",
+   "versions": [
+    {
+     "from": "2024-09-21",
+     "units": 17,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/38460",
+     "sha256": "e1d68e1323cdb4294afa1ab81ddcb147326d2ad062b9781798cf18b811ce38d8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3867",
+   "short": "Ley 3.867",
+   "title": "Ley 3.867: DÍA DEL CICLO TURISTA SANTACRUCEÑO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36927",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36927",
+     "sha256": "8dc0e6da1c7d79a9c328bef83b50d5852f59d004f7dd1142a78e46a35b59c449"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3866",
+   "short": "Ley 3.866",
+   "title": "Ley 3.866: MODIFICACIÓN LEY 500 - DE ORGÁNICA DEL TRIBUNAL DE CUENTAS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36754",
+   "versions": [
+    {
+     "from": "2024-07-17",
+     "units": 12,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36754",
+     "sha256": "68126f802547ef2e8637a922153375d77deaf311241cc764632c12e8b9b6f513"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3865",
+   "short": "Ley 3.865",
+   "title": "Ley 3.865: DÍA DE CONCIENTIZACIÓN Y VISIBILIZACIÓN EN MEMORIA DE LAS VÍCTIMAS DE CRÍMENES DE ODIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36752",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36752",
+     "sha256": "2efd9152da8f9814412abfbc69d7a1c49af7cf7585a94bf656617ae358d4020e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3864",
+   "short": "Ley 3.864",
+   "title": "Ley 3.864: ADHESIÓN A LA LEY NACIONAL N° 27.458",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36750",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36750",
+     "sha256": "85e7ab67cf2cdb15ac304a81b12280044392925288f81eb32c5e12e6e2a23f16"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3863",
+   "short": "Ley 3.863",
+   "title": "Ley 3.863: MODIFICACIÓN LEY 3485 - LEY IMPOSITIVA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36749",
+   "versions": [
+    {
+     "from": "2024-07-25",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36749",
+     "sha256": "fdcb84078d4573396d8366498b5f1c1fa24a1131fc759e707e97439d1ea03f28"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3862",
+   "short": "Ley 3.862",
+   "title": "Ley 3.862: RATIFICACIÓN - DECRETO N° 0610/2024 - ESTADO DE EMERGENCIA CLIMÁTICA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36670",
+   "versions": [
+    {
+     "from": "2024-07-14",
+     "units": 5,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36670",
+     "sha256": "1572e947ea6b2fc3725933ae96fa908c60f86d0b1486a84824190391945b2341"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3861",
+   "short": "Ley 3.861",
+   "title": "Ley 3.861: CALAFATE FRUTO AUTÓCTONO PROVINCIAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36669",
+   "versions": [
+    {
+     "from": "2024-07-14",
+     "units": 13,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36669",
+     "sha256": "0c1087c59dc8f7be47e39193c3869a5712a6f40671679ad92a1d1a1958912262"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3860",
+   "short": "Ley 3.860",
+   "title": "Ley 3.860: DÍA PROVINCIAL DEL EMPRENDIMIENTO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36668",
+   "versions": [
+    {
+     "from": "2024-07-14",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36668",
+     "sha256": "6f4e357b452e25d99222eddcab960f1e9f89696c827a0bb9eefa1ba6ac95a5c8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3859",
+   "short": "Ley 3.859",
+   "title": "Ley 3.859: TÍTULO I DEL TRIBUNAL DE ENJUICIAMIENTO - CAPÍTULO I ORGANIZACIÓN Y ATRIBUCIONES",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36667",
+   "versions": [
+    {
+     "from": "2024-07-14",
+     "units": 55,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36667",
+     "sha256": "b5773996257e67dfd6c6761f6c673008fc03660551a0e1073680d59e31dd3195"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3857",
+   "short": "Ley 3.857",
+   "title": "Ley 3.857: ADOPCIÓN DEL SÍMBOLO INTERNACIONAL DE ACCESIBILIDAD UNIVERSAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36308",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36308",
+     "sha256": "308bc6a788299a1ccf0c255dbcbb3e2fd53dd0bb718a11a9e9d1ac6ffc0b67f9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3856",
+   "short": "Ley 3.856",
+   "title": "Ley 3.856: ADHESIÓN A LA LEY NACIONAL 27.674",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36300",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36300",
+     "sha256": "df018d532d48ed85dc2773803fe4b3824a7203130caa00311d18ef909a92150d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3858",
+   "short": "Ley 3.858",
+   "title": "Ley 3.858: DEROGACIÓN LEY 2052 Y SUS MODIFICATORIAS - DE LEMAS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36290",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36290",
+     "sha256": "c8dd61b399ab268482fcac5b73331a4671fc6596c584ce41bde46ee8467cd733"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3855",
+   "short": "Ley 3.855",
+   "title": "Ley 3.855: PROFESIONALIZACIÓN DEL DEPORTE",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36216",
+   "versions": [
+    {
+     "from": "2024-06-22",
+     "units": 19,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/36216",
+     "sha256": "35447e484d0ff929960cc4e98fac6149d555f8ac51cbd9151cbcc8f947f26568"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3854",
+   "short": "Ley 3.854",
+   "title": "Ley 3.854: PRERROGATIVAS DEL MINISTERIO DE ENERGÍA Y MINERÍA DE LA PROVINCIA DE SANTA CRUZ",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/35606",
+   "versions": [
+    {
+     "from": "2024-06-08",
+     "units": 21,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/35606",
+     "sha256": "624ecf76b25410f57f1817a4d3ad92b29094797c5b800293bb65d70686058a62"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3853",
+   "short": "Ley 3.853",
+   "title": "Ley 3.853: APROBACIÓN EN TODAS SUS PARTES CONVENIO - CREACIÓN PARQUE INTERJURISDICCIONAL MARINO MONTE LEÓN",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/35321",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/35321",
+     "sha256": "d2d112ddb83baf20facdf85bed3bbad4331e60c011846a2f782dd7d9755e4c96"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3852",
+   "short": "Ley 3.852",
+   "title": "Ley 3.852: DECLÁRASE - RÍO TURBIO CAPITAL PROVINCIAL DEL DEPORTE INVERNAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/35318",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/35318",
+     "sha256": "9e60a6fc5bf13b3bddda891a6601af9cf03274bafacf26d988ccf8ecbf31ce9b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3851",
+   "short": "Ley 3.851",
+   "title": "Ley 3.851: DECLÁRASE FESTIVAL PROVINCIAL - FESTIVAL PATAGÓNICO DE CERVEZAS ARTESANALES - FEPCA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/35317",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/35317",
+     "sha256": "3ec085c8d971cd037489318e095a3bacb8ce662b152b55afa280f4803244cb6a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3850",
+   "short": "Ley 3.850",
+   "title": "Ley 3.850: EMERGENCIA ALIMENTARIA Y ADMINISTRATIVA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34346",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 12,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34346",
+     "sha256": "69a9ad6c00819d6b1355d88a2aae11e82d337fe123f1c0541cdc8acf5ccc350c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3849",
+   "short": "Ley 3.849",
+   "title": "Ley 3.849: EMERGENCIA ENERGÉTICA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34345",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34345",
+     "sha256": "c6c9b28678a003a91774f82d7c6078388c65c1e9b555588a521e1f40f63867d9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3848",
+   "short": "Ley 3.848",
+   "title": "Ley 3.848: 2024 - 20 AÑOS DE LA TRAGEDIA DE LOS 14 MINEROS DE LA CUENCA CARBONÍFERA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34344",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34344",
+     "sha256": "04dfdbe34534f3ceb9e91c0e0ab2e688c042eab1c74c6178b05ab126305c5f60"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3847",
+   "short": "Ley 3.847",
+   "title": "Ley 3.847: ADHESIÓN A LA LEY NACIONAL 27.716",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34343",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34343",
+     "sha256": "26b6ab0840f29aa1aee536bd2421e2d8e21b0c454d4928a1b2de77c370dba838"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3846",
+   "short": "Ley 3.846",
+   "title": "Ley 3.846: ADHESIÓN LEY NACIONAL 27.684",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34342",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34342",
+     "sha256": "c14bd576c0300ebb72b0b12c14136c438cc7c9515ec05d8fef9f1307d5ba47a4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3845",
+   "short": "Ley 3.845",
+   "title": "Ley 3.845: ADHESIÓN A LA LEY NACIONAL 27.709",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34341",
+   "versions": [
+    {
+     "from": "2024-05-08",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/34341",
+     "sha256": "20b1b3329377efd8fb4c2f191ce54c576fc699906dcd56da92cf7de88e26611f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3844",
+   "short": "Ley 3.844",
+   "title": "Ley 3.844: PRESUPUESTO DE LA ADMINISTRACIÓN PROVINCIAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/30952",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 41,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/30952",
+     "sha256": "15f13efc751839bfdd3efd0e8b048c73c0bd022db9ebc6b6b0e36f1bad218d22"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3843",
+   "short": "Ley 3.843",
+   "title": "Ley 3.843: PRESUPUESTO DE LA HONORABLE CÁMARA DE DIPUTADOS 2024",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/30950",
+   "versions": [
+    {
+     "from": "2024-01-12",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/30950",
+     "sha256": "0c376bcb60a75e4dd04b3efa46076cdc2e1de25b52d2b529ab538e224f49d9bb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3842",
+   "short": "Ley 3.842",
+   "title": "Ley 3.842: MODIFICACIÓN LEY 3480 - ORGÁNICA DE MINISTERIOS",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/30925",
+   "versions": [
+    {
+     "from": "2024-01-03",
+     "units": 18,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/30925",
+     "sha256": "af245459f4850998f30537ede6a80b775c8eed42838df9b5f47cdd5ce10688a9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3841",
+   "short": "Ley 3.841",
+   "title": "Ley 3.841: DEROGACIÓN - INCISO C - ARTÍCULO 52 DE LA LEY N° 3189",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/29241",
+   "versions": [
+    {
+     "from": "2023-11-25",
+     "units": 3,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/29241",
+     "sha256": "23632b88ca05a1df3ea5ae6e15d618138760af7299baf3d48d7a5a1cf21dcd0c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3840",
+   "short": "Ley 3.840",
+   "title": "Ley 3.840: DETERMINAR FECHA DE PAGO DEL BENEFICIO DE JUBILACIONES, RETIROS, PENSIONES Y AGUINALDO - PERSONAS JUBILADAS, RETIRADAS Y PENSIONADAS DE LA CAJA DE PREVISIÓN SOCIAL",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/28261",
+   "versions": [
+    {
+     "from": "2023-11-04",
+     "units": 5,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/28261",
+     "sha256": "26626340695161e1274afe206a31233e56839ce2699135cab87912ccf07933de"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3839",
+   "short": "Ley 3.839",
+   "title": "Ley 3.839: AMPLIACIÓN DEL EJIDO MUNICIPAL DE RÍO TURBIO DECRETO N° 0762/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/24833",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/24833",
+     "sha256": "b41576291e2273ce17195da66e887dce4e3725e5f2fbbfc44780ca2ac796b82b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3837",
+   "short": "Ley 3.837",
+   "title": "Ley 3.837: ACTA COMPROMISO ENTRE LA PROVINCIA DE SANTA CRUZ Y LA EMPRESA MINERA SANTA CRUZ S.A. DECRETO Nº 0758/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/24070",
+   "versions": [
+    {
+     "from": "2023-07-15",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/24070",
+     "sha256": "5d344fff5b0c47719e9e879373f73d47a65e87b4b575d8acbe5ad4451a89e3eb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3838",
+   "short": "Ley 3.838",
+   "title": "Ley 3.838: HÉROES DE MALVINAS: CIUDADANOS ILUSTRES DE LA PROVINCIA DE SANTA CRUZ DECRETO Nº 0759/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/24069",
+   "versions": [
+    {
+     "from": "2023-07-15",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/24069",
+     "sha256": "16170a11b6ed29e3bd4191dc812154f9e1be8a572f2c5fd6544250f91930ef8f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3836",
+   "short": "Ley 3.836",
+   "title": "Ley 3.836: PROGRAMA PROVINCIAL DE CONCIENTIZACIÓN SOBRE LA DONACIÓN DE SANGRE Y HEMOCOMPONENTES DECRETO N° 0654/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/23273",
+   "versions": [
+    {
+     "from": "2023-06-24",
+     "units": 13,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/23273",
+     "sha256": "386c84c8552e044dfe56d0e13f6851223e0be65b5e97a218b08e55b97b355604"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3835",
+   "short": "Ley 3.835",
+   "title": "Ley 3.835: EXENCIÓN DEL IMPUESTO SOBRE LOS INGRESOS BRUTOS DECRETO N° 0653/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22928",
+   "versions": [
+    {
+     "from": "2023-06-17",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22928",
+     "sha256": "c59c2d28a260365933b55823171e2608a654fcc8336bef5da99646ecf59af961"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3834",
+   "short": "Ley 3.834",
+   "title": "Ley 3.834: 8 DE MAYO \"DÍA DEL LEGISLADOR Y LA LEGISLADORA PROVINCIAL\" DECRETO N° 0652/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22926",
+   "versions": [
+    {
+     "from": "2023-06-17",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22926",
+     "sha256": "b9b963c9b5d0bda2666c7112b5e71696f6ac4fa2f8997d3636fcce6e62525e24"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3833",
+   "short": "Ley 3.833",
+   "title": "Ley 3.833: DÍA PROVINCIAL DE FLAP DECRETO N° 0639/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22922",
+   "versions": [
+    {
+     "from": "2023-06-17",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22922",
+     "sha256": "4dd8493d124bf3ef6c332b53de127ec85ac3a2604db8163dd5d57ed2771b8fe1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3832",
+   "short": "Ley 3.832",
+   "title": "Ley 3.832: RECREO DE LA FRUTA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22921",
+   "versions": [
+    {
+     "from": "2023-06-17",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22921",
+     "sha256": "c51d847bbb94595bf42e0a30508f88121fec9d992901f93128e0ea59a214ce76"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3831",
+   "short": "Ley 3.831",
+   "title": "Ley 3.831: CODIGOS QR EN MUSEOS DECRETO N° 0539/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22917",
+   "versions": [
+    {
+     "from": "2023-06-17",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22917",
+     "sha256": "8037fe40b4df31bc705a0aff3952980ff392c8ff6e6d502c5702eb9a63fcf8f5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3830",
+   "short": "Ley 3.830",
+   "title": "Ley 3.830: TRANSFERENCIA DE TIERRAS A FAVOR DE MUNICIPALIDAD DE PUERTO SANTA CRUZ DECRETO N° 0538/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22907",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/22907",
+     "sha256": "4a693a1c7109ea9e0de6c1f1ebfee9584cdf2ccc9bcc970413443990a25b455b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3829",
+   "short": "Ley 3.829",
+   "title": "Ley 3.829: OBLIGATORIEDAD DE DIFUSIÓN DE LA LÍNEA 145 – SOBRE TRATA DECRETO Nº 0484/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21835",
+   "versions": [
+    {
+     "from": "2023-05-25",
+     "units": 13,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21835",
+     "sha256": "78a424e26b1ed53d3841ca34a721a8d18cb2c27a85bc2cca0829c3d51fbfb230"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3828",
+   "short": "Ley 3.828",
+   "title": "Ley 3.828: HORA SILENCIOSA DECRETO Nº 0483/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21834",
+   "versions": [
+    {
+     "from": "2023-04-13",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21834",
+     "sha256": "4e0ae64d3e85d2ba447be415ecd39b289e2fe7dd403f72b0935b42a091ec5aa2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3827",
+   "short": "Ley 3.827",
+   "title": "Ley 3.827: ADHESIÓN LEY NACIONAL 27.487 DECRETO N° 0465/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21579",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21579",
+     "sha256": "9f8ada6ef632f4aac6553d151c2aae58a25f7298aa776bb33b3a217db6ff2210"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3826",
+   "short": "Ley 3.826",
+   "title": "Ley 3.826: ADHESIÓN LEY NACIONAL 26.562 DECRETO N° 0464/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21578",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21578",
+     "sha256": "be0eddac869d8b3b46be887971806eb262d2a0344817985c5a5c1e6c12a7df69"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3825",
+   "short": "Ley 3.825",
+   "title": "Ley 3.825: ADHESIÓN LEY NACIONAL 26.815 DECRETO N° 0463/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21575",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21575",
+     "sha256": "83e1a48a7a81fab487834273728be2f65394b2823a89bf88475533a1fa2b8298"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3824",
+   "short": "Ley 3.824",
+   "title": "Ley 3.824: ADHESIÓN A LA LEY NACIONAL 27.324 DECRETO Nº 0447/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21540",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21540",
+     "sha256": "f1a8c4f0d800e6cc2c348edad560e16139c2951debb4e09ae854b62f655ec694"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3823",
+   "short": "Ley 3.823",
+   "title": "Ley 3.823: ADHESIÓN A LA LEY NACIONAL 27.671 DECRETO Nº 0446/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21539",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21539",
+     "sha256": "a58728160bf12192a8d96350c8b3ec059eaaf64597fd2cc1b961b56acdcc18f4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3822",
+   "short": "Ley 3.822",
+   "title": "Ley 3.822: FESTIVAL DEL VIENTO DECRETO Nº 0445/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21538",
+   "versions": [
+    {
+     "from": "2023-05-18",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/21538",
+     "sha256": "20afd4fee4146303aa6a9c52aa666dc90da764124c771088437d651eef03e0ab"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3821",
+   "short": "Ley 3.821",
+   "title": "Ley 3.821: EMERGENCIA HÍDRICA ZONA NORTE Y SUR DECRETO N° 0379/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/20918",
+   "versions": [
+    {
+     "from": "2023-05-04",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/20918",
+     "sha256": "72e8476ac63c674d3f32d8f50df2709fa4d1f52ec7e9fd922725d7fd8fb5582e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3820",
+   "short": "Ley 3.820",
+   "title": "Ley 3.820: SISTEMA DE PROMOCIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD DECRETO N° 0048/2023 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16925",
+   "versions": [
+    {
+     "from": "2023-02-02",
+     "units": 80,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16925",
+     "sha256": "e3ca8cc3084e7d73bd4d6375dd969bb335c5c50e9675334453e3f1d6560fe6b3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3819",
+   "short": "Ley 3.819",
+   "title": "Ley 3.819: SERVIDUMBRE DE TRÁNSITO PARA LA PESCA DEPORTIVA Y GUÍAS DE PESCA",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16457",
+   "versions": [
+    {
+     "from": "2023-01-21",
+     "units": 12,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16457",
+     "sha256": "cd756255355b665546bfebd19f0d12448415d7b0a68d35456840c04a263c1a28"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3818",
+   "short": "Ley 3.818",
+   "title": "Ley 3.818: AMPLIACIÓN EJIDO URBANO DE LA CIUDAD DE RÍO GALLEGOS DECRETO N° 1671/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16456",
+   "versions": [
+    {
+     "from": "2023-01-21",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16456",
+     "sha256": "de31b10f665a424fc2f4c7f4b617943dc3f749ecca5a6099f28413851e74da98"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3817",
+   "short": "Ley 3.817",
+   "title": "Ley 3.817: MODIFICACIÓN LEY 3595 - DE REGISTRO ÚNICO DE PERSONAS VIOLENTAS DECRETO N° 1645/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16455",
+   "versions": [
+    {
+     "from": "2023-01-21",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16455",
+     "sha256": "2e320f2e6893914834b25dfdc53a7e13b5c3cf4d5d15710ab76c81b0f6e74fe5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3816",
+   "short": "Ley 3.816",
+   "title": "Ley 3.816: PREVENCIÓN DE LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES DECRETO N° 1644/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16453",
+   "versions": [
+    {
+     "from": "2023-01-21",
+     "units": 52,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16453",
+     "sha256": "50d8b35e3b8fae638f48f2e92930b7ac98f8e4454cf05be65b781d6529d1960b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3815",
+   "short": "Ley 3.815",
+   "title": "Ley 3.815: LENGUA DE FUEGO FLOR PROVINCIAL DECRETO N° 1624/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16179",
+   "versions": [
+    {
+     "from": "2023-01-07",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16179",
+     "sha256": "2e038d99483511c1b017def5df8b3dc055678776f54cd284948efa5f2d26c3ce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3814",
+   "short": "Ley 3.814",
+   "title": "Ley 3.814: LÍMITES DE LA RESERVA PROVINCIAL PARA AVES MIGRATORIAS DECRETO N° 1623/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16178",
+   "versions": [
+    {
+     "from": "2023-01-07",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16178",
+     "sha256": "0ba9592341bef1831589d70e769d73a01d5d56927ed9b10be8a471985f243b5b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3813",
+   "short": "Ley 3.813",
+   "title": "Ley 3.813: 2023 - 40 AÑOS DE LA RECUPERACIÓN DE LA DEMOCRACIA DECRETO N° 1622/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16177",
+   "versions": [
+    {
+     "from": "2023-01-07",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/16177",
+     "sha256": "221f5a7271b30a1f4909753ecf55e9fe8d6e7eb9f53e404a009d16ae74e87ba2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3812",
+   "short": "Ley 3.812",
+   "title": "Ley 3.812: PRESUPUESTO GENERAL DE LA ADMINISTRACIÓN PROVINCIAL PARA EL AÑO 2023 - PRESUPUESTO DE LA ADMINISTRACIÓN PROVINCIAL DECRETO N° 1602/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/15953",
+   "versions": [
+    {
+     "from": "2022-12-25",
+     "units": 41,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/15953",
+     "sha256": "17f5887e83413d34a5020947603c0edcffc572990c1ab13532eb1d1d1148e4b1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3811",
+   "short": "Ley 3.811",
+   "title": "Ley 3.811: PRESUPUESTO DE LA HONORABLE CÁMARA DE DIPUTADOS - 2023 DECRETO N° 1601/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/15950",
+   "versions": [
+    {
+     "from": "2022-12-25",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/15950",
+     "sha256": "f42a69e8112d3f464de97ab27d6c4a53336b58f063b0a4f6cc5b268edeabe808"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3810",
+   "short": "Ley 3.810",
+   "title": "Ley 3.810: MODIFICACIÓN LEY 3755 - ADMINISTRACIÓN FINANCIERA Y DE LOS SISTEMAS DE CONTROL DEL SECTOR PÚBLICO PROVINCIAL DECRETO N° 1600/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/15945",
+   "versions": [
+    {
+     "from": "2022-12-25",
+     "units": 127,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/15945",
+     "sha256": "8c0b51d6d7700fc7ce91f37b89712b58040d140c9462d14a38a859279296ebd9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3809",
+   "short": "Ley 3.809",
+   "title": "Ley 3.809: DEFENSORÍA DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DECRETO N° 1502/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/15599",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 34,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/15599",
+     "sha256": "0ceff20412ba1cb35eb2d802fdc0490db045b985d924e4e77e523a5db234bb91"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3808",
+   "short": "Ley 3.808",
+   "title": "Ley 3.808: CAPACITACIÓN OBLIGATORIA EN DERECHOS HUMANOS “EMPODERAR” DECRETO N° 1469/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14622",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 12,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14622",
+     "sha256": "27668a5e58cd2676adb1d3ce6c7a6b8b95f6a447d771aa1a029d3c79432d234e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3807",
+   "short": "Ley 3.807",
+   "title": "Ley 3.807: DIGESTO NORMATIVO DE GÉNERO Y DIVERSIDAD DECRETO N° 1465/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14620",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14620",
+     "sha256": "07d7ae0f2de35520f6814e52517f318e0f44034d0bb87fa3ecd0a7691c107e71"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3806",
+   "short": "Ley 3.806",
+   "title": "Ley 3.806: 18 DE MARZO “DÍA PROVINCIAL DE LA TRISOMÍA 18 SÍNDROME DE EDWARDS” DECRETO N° 1456/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14619",
+   "versions": [
+    {
+     "from": "2022-11-24",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14619",
+     "sha256": "c2b531be91328bed85bf6f7a973283c4fb1e098ca13187814f7955ff7a838310"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3805",
+   "short": "Ley 3.805",
+   "title": "Ley 3.805: DESFRIBILADOR EXTERNO AUTOMÁTICO (DEA) EN EVENTOS DE CONCURRENCIA MASIVA DECRETO Nº 1269 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14221",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 15,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14221",
+     "sha256": "c82e11b7b56852aae728331f949c093ced5acd641f6f0fdb641f4e7e3d14a151"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3804",
+   "short": "Ley 3.804",
+   "title": "Ley 3.804: SPOT PARA TRANSPORTE INTERURBANO EN SANTA CRUZ DECRETO N° 1268/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14220",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 16,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14220",
+     "sha256": "46db149f9a8fed081efa3a592526e835af635112c31446c61fc03e1b7f4c8d39"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3803",
+   "short": "Ley 3.803",
+   "title": "Ley 3.803: PERSONAS DESAPARECIDAS Y EXTRAVIADAS EN FACTURAS Y RESÚMENES DECRETO N° 1267/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14219",
+   "versions": [
+    {
+     "from": "2022-11-17",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/14219",
+     "sha256": "c10a9bd2edbe256131f7ce5a78703ce188f0f991816fda1c4139ab39b8df66ce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3802",
+   "short": "Ley 3.802",
+   "title": "Ley 3.802: CARTA DE INTENCIÓN SUSCRIPTA ENTRE YPF S.A Y EL GOBIERNO DE LA PROVINCIA DE SANTA CRUZ DECRETO N° 1266/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12575",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12575",
+     "sha256": "f40c250c5feca9f50a492954a0c8bff5a09f6926ac92d48ddd0b42861a1c7196"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3801",
+   "short": "Ley 3.801",
+   "title": "Ley 3.801: DE TRANSFERENCIA DEL REGISTRO PÚBLICO Y CREACIÓN DE LA UNIDAD DE REGISTRO PÚBLICO Y CONTRALOR DE PERSONAS JURÍDICAS DECRETO N° 1265/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12568",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 17,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12568",
+     "sha256": "ea994e173778a89e19fa8102a6eacaed79045d5b138c29b55f3295afedb5194d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3800",
+   "short": "Ley 3.800",
+   "title": "Ley 3.800: PATRIMONIO HISTÓRICO Y CULTURAL “HOTEL ALQUINTA” DE TRES LAGOS DECRETO N° 1264/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12567",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12567",
+     "sha256": "2578195bdd38989867a69ffd7b11bf6dd66191ac10e9d04cd7ad80f3853dbf82"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3799",
+   "short": "Ley 3.799",
+   "title": "Ley 3.799: TRANSFERENCIA DE UN INMUEBLE A LA MUNICIPALIDAD DE PERITO MORENO DECRETO N° 1240/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12566",
+   "versions": [
+    {
+     "from": "2022-10-06",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12566",
+     "sha256": "090245018c879f7739260b5f107a35c5d893c077cf175ce9b181daed5df0638c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3798",
+   "short": "Ley 3.798",
+   "title": "Ley 3.798: ACTUALIZACIÓN DEL ORDENAMIENTO TERRITORIAL DE BOSQUES NATIVOS DE LA PROVINCIA DE SANTA CRUZ DECRETO N° 1223/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12423",
+   "versions": [
+    {
+     "from": "2022-10-01",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12423",
+     "sha256": "0c5f0c6119b39d93841f0e179e9570953d6300a4b45d461af2a0c31c6e4549bd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3793",
+   "short": "Ley 3.793",
+   "title": "Ley 3.793: MODIFICACIÓN ARTÍCULO 1° - LEY N° 3056 DECRETO N° 1156/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12046",
+   "versions": [
+    {
+     "from": "2022-09-18",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12046",
+     "sha256": "4b83be31fcc7c80cef02ca42f5e0d03f87c210decb45f8322312c6b67f26943c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3792",
+   "short": "Ley 3.792",
+   "title": "Ley 3.792: CRÉASE LA MESA PROVINCIAL DE DIÁLOGO INTERRELIGIOSO DECRETO N° 1155/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12045",
+   "versions": [
+    {
+     "from": "2022-09-18",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12045",
+     "sha256": "114d8f4a145772591411d1f71533700783a5e028f95862add67ad037499e233a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3791",
+   "short": "Ley 3.791",
+   "title": "Ley 3.791: GESTIÓN DE NEUMÁTICOS FUERA DE USO PARA LA PROTECCIÓN AMBIENTAL DECRETO N° 1154/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12044",
+   "versions": [
+    {
+     "from": "2022-09-18",
+     "units": 30,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12044",
+     "sha256": "f13087998c61d96431a6aacedf2fb24a815ed6a8d30eeab917da202ed517f7fb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3790",
+   "short": "Ley 3.790",
+   "title": "Ley 3.790: INSTAURACIÓN DEL “MES DE LA CONCIENTIZACIÓN Y PREVENCIÓN DE ACCIDENTES POR MONÓXIDO DE CARBONO DECRETO N° 1141/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12043",
+   "versions": [
+    {
+     "from": "2022-09-18",
+     "units": 14,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12043",
+     "sha256": "dd778639b8f59b44b15f8772e26158b31bae03fcef656569339ff2f8f20764ea"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3789",
+   "short": "Ley 3.789",
+   "title": "Ley 3.789: ESTABLECER DÍAS NO LABORABLES PARA AGENTES DE PUEBLOS ORIGINARIO DECRETO N° 1122/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12042",
+   "versions": [
+    {
+     "from": "2022-09-18",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/12042",
+     "sha256": "8cc2bc54e482a6d598fd9b8b172e0a0858ff6012e5561e9fdd2d66e19aed3df3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3788",
+   "short": "Ley 3.788",
+   "title": "Ley 3.788: MODIFICACIÓN ARTÍCULO 1° - LEY N° 2057 - FO.MI.CRUZ. S.E.",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/11709",
+   "versions": [
+    {
+     "from": "2022-09-08",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/11709",
+     "sha256": "6e0f894a1bbd6f582ab4d643c628814b7cf926b7b69e4356b018dd4463e3fbfb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3787",
+   "short": "Ley 3.787",
+   "title": "Ley 3.787: ADHESIÓN A LA LEY NACIONAL 26348 - MODIFICACIÓN A LA LEY 2378 PROMULGADA AUTOMÁTICAMENTE BAJO EL Nº 3787",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/10772",
+   "versions": [
+    {
+     "from": "2022-07-28",
+     "units": 41,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/10772",
+     "sha256": "b74724ef0c615ecdc09d7e270dfac8bb68e481343c4ad03bcdc92a1456612f23"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3786",
+   "short": "Ley 3.786",
+   "title": "Ley 3.786: FESTIVAL PATAGONICO DE JINETEADA “MAKAMENKE” DECRETO N° 0862/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/10565",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/10565",
+     "sha256": "e997336d9e9a3a5d9edbc566cb934e17ffde65a226078f4a5cf8b7b1f80bb8c1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3785",
+   "short": "Ley 3.785",
+   "title": "Ley 3.785: SEMANA DE LA MEMORIA POR TODOS LOS TRIPULANTES DESAPARECIDIOS EN EL MAR ARGENTINO DECRETO Nº 0861/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/10564",
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "units": 8,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/10564",
+     "sha256": "97c7ee9e15df6006f08b87b2ab6b397ec322829996664a82d24272e21f562442"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3784",
+   "short": "Ley 3.784",
+   "title": "Ley 3.784: MODIFICACIÓN LEY 2930 - DE TRANSFERENCIA INMUEBLE A FAVOR DE LA MUNICIPALIDAD DE PERITO MORENO DECRETO N° 0791/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/10011",
+   "versions": [
+    {
+     "from": "2022-07-09",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/10011",
+     "sha256": "d5e7753c49d10da88f0872eef1e2ba7c521b8e4fa0f04eda0bd611879c6192c9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3783",
+   "short": "Ley 3.783",
+   "title": "Ley 3.783: ADHESIÓN A LA LEY NACIONAL 27.539 DECRETO N° 0790/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/10010",
+   "versions": [
+    {
+     "from": "2022-07-09",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/10010",
+     "sha256": "5378364a32c5c70cce241cafd187edb5f7e95b6fd27103130463e032ec48ff13"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3782",
+   "short": "Ley 3.782",
+   "title": "Ley 3.782: CAPITAL PROVINCIAL DE LA VIGILIA - MALVINAS NOS UNE DECRETO N° 0734/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/8815",
+   "versions": [
+    {
+     "from": "2022-06-25",
+     "units": 6,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/8815",
+     "sha256": "1b47bae0f263f929cfe9c1bad762b842dcef10e8887f57353c0be4c84f4a614b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3781",
+   "short": "Ley 3.781",
+   "title": "Ley 3.781: CONSENSO FISCAL 2021 DECRETO N° 0709/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/8624",
+   "versions": [
+    {
+     "from": "2022-06-23",
+     "units": 7,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/8624",
+     "sha256": "262a67435c28082564ad7dbd9adaa6defe06d94c1c7905c5d83f4d3951e6fa0c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3780",
+   "short": "Ley 3.780",
+   "title": "Ley 3.780: ADHESIÓN LEY NACIONAL 27.505 DECRETO N° 0684/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/8217",
+   "versions": [
+    {
+     "from": "2022-06-18",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/8217",
+     "sha256": "bfdb0c8b14903dbf910537dc4c1615ffd4018282abc537d50bb294fbcb944ca7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3779",
+   "short": "Ley 3.779",
+   "title": "Ley 3.779: CREACIÓN ‟COMPAÑIA DE SEGUROS GENERALES DE LA PROVINCIA DE SANTA CRUZ SOCIEDAD ANÓNIMA” - MODIFICACIÓN LEYES 545 Y 3304 DECRETO N° 0622/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/7567",
+   "versions": [
+    {
+     "from": "2022-06-09",
+     "units": 25,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/7567",
+     "sha256": "44dc159d43f062b05c90b29b1739c1ac29caa150e311c05faccaa907c6bbe50c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3778",
+   "short": "Ley 3.778",
+   "title": "Ley 3.778: MODIFICACIÓN DE LA LEY 3480 - ORGÁNICA DE MINISTERIOS - CREACIÓN DEL MINISTERIO DE LA IGUALDAD E INTEGRACIÓN DECRETO N° 0578/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/6480",
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "units": 10,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/6480",
+     "sha256": "668e25980b90cf1a5f881507afcf37bbe4ecf1ab764e08958dd9823550d67ad4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3777",
+   "short": "Ley 3.777",
+   "title": "Ley 3.777: MODIFICACIÓN LEYES 2567 - 2658 - 2826 - 3122 - DE MEDIO AMBIENTE DECRETO N° 0535/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/6134",
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "units": 12,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/6134",
+     "sha256": "345600d6c0f67886020d82d9f758b272eb9af3e8765802a2fa5a2851d89cd9e0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3776",
+   "short": "Ley 3.776",
+   "title": "Ley 3.776: MALVINIZAR LA SOCIEDAD SANTACRUCEÑA DESDE LA ESCUELA DECRETO N° 0048/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/5558",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 11,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/5558",
+     "sha256": "03f04ec3e4772a9c24b45f8b6ea5ad1a0efd503c8e31df93b79aa85dddb1e301"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3775",
+   "short": "Ley 3.775",
+   "title": "Ley 3.775: CREACIÓN DE LA COMISIÓN REDACTORA DEL CÓDIGO PROCESAL DE FAMILIA Y VIOLENCIA FAMILIAR DECRETO N° 0049/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/5383",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 12,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/5383",
+     "sha256": "bc9bf02f68891703d38ce2433041fb922e7bdde881b372bf004ca7e2d7226887"
+    }
+   ]
+  },
+  {
+   "slug": "ley-3774",
+   "short": "Ley 3.774",
+   "title": "Ley 3.774: CREACIÓN DE LA DEFENSORÍA PÚBLICA OFICIAL DE NIÑAS, NIÑOS Y ADOLESCENTES PARA LA CIUDAD DE CALETA OLIVIA DECRETO N° 0047/2022 PROMULGATORIO",
+   "url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/5381",
+   "versions": [
+    {
+     "from": "2022-02-03",
+     "units": 9,
+     "source_url": "https://boletinoficial.santacruz.gob.ar/legislacion/leyes/5381",
+     "sha256": "ecc354379db2b49cae3a1f1e18aa3cbecd1c2e8c9812c51f030b1a3bb0f7db00"
+    }
+   ]
+  }
+ ]
+}
